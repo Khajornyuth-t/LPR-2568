@@ -1,0 +1,76 @@
+═══════════════════════════════════════════════════════════
+Latin & Number Character Mapping
+═══════════════════════════════════════════════════════════
+Total: 37 characters
+Generated: 29-Sep-2025 14:58:45
+═══════════════════════════════════════════════════════════
+
+1. LATIN LETTERS (26 characters)
+───────────────────────────────────────────────────────────
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+A	→	A.png	(U+0041)
+B	→	B.png	(U+0042)
+C	→	C.png	(U+0043)
+D	→	D.png	(U+0044)
+E	→	E.png	(U+0045)
+F	→	F.png	(U+0046)
+G	→	G.png	(U+0047)
+H	→	H.png	(U+0048)
+I	→	I.png	(U+0049)
+J	→	J.png	(U+004A)
+K	→	K.png	(U+004B)
+L	→	L.png	(U+004C)
+M	→	M.png	(U+004D)
+N	→	N.png	(U+004E)
+O	→	O.png	(U+004F)
+P	→	P.png	(U+0050)
+Q	→	Q.png	(U+0051)
+R	→	R.png	(U+0052)
+S	→	S.png	(U+0053)
+T	→	T.png	(U+0054)
+U	→	U.png	(U+0055)
+V	→	V.png	(U+0056)
+W	→	W.png	(U+0057)
+X	→	X.png	(U+0058)
+Y	→	Y.png	(U+0059)
+Z	→	Z.png	(U+005A)
+
+2. NUMBERS (10 characters)
+───────────────────────────────────────────────────────────
+0123456789
+
+0	→	0.png	(U+0030)
+1	→	1.png	(U+0031)
+2	→	2.png	(U+0032)
+3	→	3.png	(U+0033)
+4	→	4.png	(U+0034)
+5	→	5.png	(U+0035)
+6	→	6.png	(U+0036)
+7	→	7.png	(U+0037)
+8	→	8.png	(U+0038)
+9	→	9.png	(U+0039)
+
+3. SPECIAL CHARACTERS (1 character)
+───────────────────────────────────────────────────────────
+-	→	dash.png	(U+002D)
+
+═══════════════════════════════════════════════════════════
+⚠️  CRITICAL PAIRS (易混淆字元)
+═══════════════════════════════════════════════════════════
+1. Latin "I" (U+0049) vs Digit "1" (U+0031)
+   ├─ Template: I.png vs 1.png
+   ├─ Example: I5-2578 (Latin I + Digit 5)
+   └─ Solution: Context-based recognition
+
+2. Latin "O" (U+004F) vs Digit "0" (U+0030)
+   ├─ Template: O.png vs 0.png
+   └─ Note: Less common in Thai plates
+
+═══════════════════════════════════════════════════════════
+Examples from Real License Plates:
+═══════════════════════════════════════════════════════════
+  Type 1 (Yellow): I5-2578  (Latin-Digit-Dash-Digits)
+  Type 1 (Yellow): 1ก1234   (Digit-Thai-Digits)
+  Type 2 (White):  กก3534   (Thai-Thai-Digits)
+═══════════════════════════════════════════════════════════

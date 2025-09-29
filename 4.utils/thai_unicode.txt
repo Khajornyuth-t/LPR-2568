@@ -1,0 +1,64 @@
+═══════════════════════════════════════════════════════════
+Thai Character Mapping for License Plate Recognition
+═══════════════════════════════════════════════════════════
+Total: 46 Thai consonants (ก-ฮ)
+Generated: 29-Sep-2025 14:58:45
+═══════════════════════════════════════════════════════════
+
+No.	Char	Filename		Unicode
+───────────────────────────────────────────────────────────
+ 1	ก	kor_kai.png         	U+0E01
+ 2	ข	khor_khai.png       	U+0E02
+ 3	ฃ	khor_khuat.png      	U+0E03
+ 4	ค	khor_khwai.png      	U+0E04
+ 5	ฅ	khor_khon.png       	U+0E05
+ 6	ฆ	khor_rakhang.png    	U+0E06
+ 7	ง	ngor_ngu.png        	U+0E07
+ 8	จ	jor_jan.png         	U+0E08
+ 9	ฉ	chor_ching.png      	U+0E09
+10	ช	chor_chang.png      	U+0E0A
+11	ซ	sor_so.png          	U+0E0B
+12	ฌ	chor_choe.png       	U+0E0C
+13	ญ	yor_ying.png        	U+0E0D
+14	ฎ	dor_chada.png       	U+0E0E
+15	ฏ	tor_patak.png       	U+0E0F
+16	ฐ	thor_than.png       	U+0E10
+17	ฑ	thor_montho.png     	U+0E11
+18	ฒ	thor_phuthao.png    	U+0E12
+19	ณ	nor_nen.png         	U+0E13
+20	ด	dor_dek.png         	U+0E14
+21	ต	tor_tao.png         	U+0E15
+22	ถ	thor_thung.png      	U+0E16
+23	ท	thor_thahan.png     	U+0E17
+24	ธ	thor_thong.png      	U+0E18
+25	น	nor_nu.png          	U+0E19
+26	บ	bor_baimai.png      	U+0E1A
+27	ป	por_pla.png         	U+0E1B
+28	ผ	phor_phung.png      	U+0E1C
+29	ฝ	for_fa.png          	U+0E1D
+30	พ	phor_phan.png       	U+0E1E
+31	ฟ	for_fan.png         	U+0E1F
+32	ภ	phor_samphao.png    	U+0E20
+33	ม	mor_ma.png          	U+0E21
+34	ย	yor_yak.png         	U+0E22
+35	ร	ror_rua.png         	U+0E23
+36	ฤ	rue.png             	U+0E24
+37	ล	lor_ling.png        	U+0E25
+38	ฦ	lue.png             	U+0E26
+39	ว	wor_waen.png        	U+0E27
+40	ศ	sor_sala.png        	U+0E28
+41	ษ	sor_rusi.png        	U+0E29
+42	ส	sor_suea.png        	U+0E2A
+43	ห	hor_hip.png         	U+0E2B
+44	ฬ	lor_chula.png       	U+0E2C
+45	อ	or_ang.png          	U+0E2D
+46	ฮ	hor_nokhuk.png      	U+0E2E
+
+═══════════════════════════════════════════════════════════
+Examples from Real License Plates:
+═══════════════════════════════════════════════════════════
+  กก 3534   (kor_kai, kor_kai)
+  ศร 1818   (sor_sala, ror_rua)
+  ฌต 936    (chor_choe, tor_tao)
+  ทป 9784   (thor_thahan, por_pla)
+═══════════════════════════════════════════════════════════
