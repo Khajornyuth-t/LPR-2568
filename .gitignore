@@ -1,0 +1,128 @@
+# ========================================
+# .gitignore for MATLAB LPR Project
+# ========================================
+2.data/
+
+ ========== MATLAB Files ==========
+# Autosave files
+*.asv
+*.m~
+
+# Code generation folders
+codegen/
+slprj/
+
+# MATLAB session info
+*.autosave
+
+# Compiled MEX files
+*.mex*
+*.mexw64
+*.mexa64
+*.mexmaci64
+
+# P-code files
+*.p
+
+# Cache files
+*.slxc
+
+# ========== Output Files ==========
+# Excel output (ถ้าไม่ต้องการเก็บใน Git)
+# 5.output/*.xls
+# 5.output/*.xlsx
+# 5.output/*.csv
+
+# Processed images (ถ้าไม่ต้องการเก็บ)
+5.output/processed_images/
+5.output/debug_images/
+
+# Temporary results
+5.output/temp/
+5.output/*.tmp
+
+# ========== Large Files ==========
+# รูปภาพต้นฉบับ (ถ้าใหญ่เกินไป)
+# data/images/*.bmp
+# แต่ถ้าเก็บได้ ควรเก็บไว้
+
+# Video files
+*.mp4
+*.avi
+*.mov
+6.docs/*.mp4
+
+# PowerPoint (ถ้าใหญ่)
+# docs/*.pptx
+
+# ========== OS Files ==========
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# ========== IDE Files ==========
+# MATLAB Project files (optional)
+# *.prj
+# resources/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# ========== Python (ถ้ามี) ==========
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# ========== Logs & Reports ==========
+*.log
+*.txt.bak
+
+# ========== Backup Files ==========
+*.bak
+*.backup
+*_backup/
+*_old/
+
+# ========== Temporary Files ==========
+*.tmp
+*.temp
+~$*
+
+# ========== Custom ==========
+# Working directory สำหรับทดสอบ
+test/
+experiments/
+scratch/
+
+# Personal notes
+notes.txt
+todo.txt
+
+# ========================================
+# Keep These Files (Force Include)
+# ========================================
+# ถ้าต้องการเก็บไฟล์บางไฟล์แม้จะอยู่ใน ignore pattern
+# !important_file.txt
+!README.md
+!.gitignore
