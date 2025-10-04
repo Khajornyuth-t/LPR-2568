@@ -258,13 +258,13 @@ function score = calculateScore(aspectRatio, relativeArea, solidity, ...
     end
     
     % ===== 3. Solidity (15 points) =====
-    % Solidity = Area / ConvexArea (ความ "แข็ง" ของรูปร่าง)
+    % Solidity = Area / ConvexArea
     if solidity >= 0.75
-        score = score + 15;  % Very solid
+        score = score + 15;
     elseif solidity >= 0.65
-        score = score + 12;  % Good
+        score = score + 12;
     elseif solidity >= 0.55
-        score = score + 8;   % Acceptable
+        score = score + 8;
     end
     
     % ===== 4. Extent (10 points) =====
