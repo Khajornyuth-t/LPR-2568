@@ -31,12 +31,12 @@ function [char_images, char_boxes, debug_info] = segmentCharacters(binary_img, o
     end
     
     %% Default parameters
-    if ~isfield(options, 'minCharWidth'), options.minCharWidth = 10; end
-    if ~isfield(options, 'maxCharWidth'), options.maxCharWidth = 100; end
-    if ~isfield(options, 'minCharHeight'), options.minCharHeight = 20; end
-    if ~isfield(options, 'maxCharHeight'), options.maxCharHeight = 150; end
-    if ~isfield(options, 'minAspectRatio'), options.minAspectRatio = 0.2; end
-    if ~isfield(options, 'maxAspectRatio'), options.maxAspectRatio = 1.5; end
+    if ~isfield(options, 'minCharWidth'), options.minCharWidth = 3; end
+    if ~isfield(options, 'maxCharWidth'), options.maxCharWidth = 200; end
+    if ~isfield(options, 'minCharHeight'), options.minCharHeight = 8; end
+    if ~isfield(options, 'maxCharHeight'), options.maxCharHeight = 250; end
+    if ~isfield(options, 'minAspectRatio'), options.minAspectRatio = 0.05; end
+    if ~isfield(options, 'maxAspectRatio'), options.maxAspectRatio = 3.0; end
     if ~isfield(options, 'debugMode'), options.debugMode = false; end
     
     %% Initialize outputs
@@ -72,8 +72,8 @@ function [char_images, char_boxes, debug_info] = segmentCharacters(binary_img, o
         is_valid_width = width >= options.minCharWidth && width <= options.maxCharWidth;
         is_valid_height = height >= options.minCharHeight && height <= options.maxCharHeight;
         is_valid_aspect = aspect_ratio >= options.minAspectRatio && aspect_ratio <= options.maxAspectRatio;
-        is_valid_area = area >= 50; % Minimum area to avoid noise
-        is_valid_extent = extent >= 0.3; % Avoid very sparse regions
+        is_valid_area = area >= 20; % Minimum area to avoid noise (ลดจาก 50)
+        is_valid_extent = extent >= 0.15; % Avoid very sparse regions (ลดจาก 0.3)
         
         temp_valid(i) = is_valid_width && is_valid_height && is_valid_aspect && is_valid_area && is_valid_extent;
     end

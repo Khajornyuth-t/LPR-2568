@@ -1,0 +1,2101 @@
+ Volume in drive D is Data
+ Volume Serial Number is B2A6-986D
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568
+
+04-Oct-25  14:59    <DIR>          .
+29-Sep-25  20:16    <DIR>          ..
+04-Oct-25  13:13             2,286 .gitignore
+04-Oct-25  14:12    <DIR>          1.src
+04-Oct-25  12:26    <DIR>          2.data
+04-Oct-25  13:58    <DIR>          3.templates
+29-Sep-25  15:54    <DIR>          4.utils
+04-Oct-25  14:14    <DIR>          5.output
+29-Sep-25  13:29    <DIR>          6.docs
+04-Oct-25  14:59                 0 dit.txt
+29-Sep-25  13:23            35,823 LICENSE
+04-Oct-25  13:54    <DIR>          output
+29-Sep-25  13:23             5,525 README.md
+               4 File(s)         43,634 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git
+
+04-Oct-25  14:59    <DIR>          ..
+04-Oct-25  14:12                11 COMMIT_EDITMSG
+29-Sep-25  13:44               453 config
+29-Sep-25  13:23                73 description
+04-Oct-25  14:51                 0 FETCH_HEAD
+29-Sep-25  13:43                20 HEAD
+29-Sep-25  13:23    <DIR>          hooks
+04-Oct-25  14:12             2,701 index
+29-Sep-25  13:23    <DIR>          info
+29-Sep-25  13:23    <DIR>          logs
+04-Oct-25  14:12    <DIR>          objects
+04-Oct-25  12:01                41 ORIG_HEAD
+29-Sep-25  13:23               112 packed-refs
+29-Sep-25  13:23    <DIR>          refs
+               8 File(s)          3,411 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\hooks
+
+29-Sep-25  13:23    <DIR>          .
+29-Sep-25  13:23               478 applypatch-msg.sample
+29-Sep-25  13:23               896 commit-msg.sample
+29-Sep-25  13:23             4,655 fsmonitor-watchman.sample
+29-Sep-25  13:23               189 post-update.sample
+29-Sep-25  13:23               424 pre-applypatch.sample
+29-Sep-25  13:23             1,643 pre-commit.sample
+29-Sep-25  13:23               416 pre-merge-commit.sample
+29-Sep-25  13:23             1,348 pre-push.sample
+29-Sep-25  13:23             4,898 pre-rebase.sample
+29-Sep-25  13:23               544 pre-receive.sample
+29-Sep-25  13:23             1,492 prepare-commit-msg.sample
+29-Sep-25  13:23             3,635 update.sample
+              12 File(s)         20,618 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\info
+
+29-Sep-25  13:23    <DIR>          .
+29-Sep-25  13:23               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\logs
+
+29-Sep-25  13:23    <DIR>          .
+04-Oct-25  14:12             2,312 HEAD
+29-Sep-25  13:23    <DIR>          refs
+               1 File(s)          2,312 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\logs\refs
+
+29-Sep-25  13:23    <DIR>          .
+29-Sep-25  13:23    <DIR>          ..
+29-Sep-25  13:43    <DIR>          heads
+29-Sep-25  13:23    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\logs\refs\heads
+
+29-Sep-25  13:43    <DIR>          .
+29-Sep-25  13:23    <DIR>          ..
+04-Oct-25  14:12             1,941 dev
+29-Sep-25  13:42               363 main
+               2 File(s)          2,304 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\logs\refs\remotes
+
+29-Sep-25  13:23    <DIR>          .
+29-Sep-25  13:23    <DIR>          ..
+29-Sep-25  13:44    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\logs\refs\remotes\origin
+
+29-Sep-25  13:44    <DIR>          .
+29-Sep-25  13:23    <DIR>          ..
+29-Sep-25  19:59               486 dev
+29-Sep-25  13:23               200 HEAD
+29-Sep-25  13:43               162 main
+               3 File(s)            848 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects
+
+04-Oct-25  14:12    <DIR>          .
+29-Sep-25  14:59    <DIR>          06
+29-Sep-25  15:13    <DIR>          07
+29-Sep-25  15:14    <DIR>          0c
+04-Oct-25  14:12    <DIR>          0e
+29-Sep-25  15:14    <DIR>          10
+04-Oct-25  14:12    <DIR>          11
+04-Oct-25  12:02    <DIR>          20
+04-Oct-25  13:15    <DIR>          2a
+29-Sep-25  15:58    <DIR>          2b
+04-Oct-25  14:12    <DIR>          2f
+04-Oct-25  14:12    <DIR>          30
+04-Oct-25  12:02    <DIR>          32
+04-Oct-25  11:58    <DIR>          41
+29-Sep-25  15:58    <DIR>          48
+29-Sep-25  15:13    <DIR>          4b
+29-Sep-25  19:59    <DIR>          51
+04-Oct-25  13:11    <DIR>          55
+04-Oct-25  14:12    <DIR>          56
+04-Oct-25  11:58    <DIR>          57
+29-Sep-25  15:12    <DIR>          65
+29-Sep-25  15:00    <DIR>          74
+04-Oct-25  12:02    <DIR>          79
+04-Oct-25  13:10    <DIR>          7c
+29-Sep-25  15:58    <DIR>          7f
+29-Sep-25  15:00    <DIR>          80
+29-Sep-25  15:00    <DIR>          87
+29-Sep-25  19:59    <DIR>          88
+04-Oct-25  12:02    <DIR>          8d
+04-Oct-25  13:10    <DIR>          8f
+04-Oct-25  13:11    <DIR>          92
+29-Sep-25  19:59    <DIR>          95
+04-Oct-25  13:15    <DIR>          98
+29-Sep-25  13:42    <DIR>          99
+04-Oct-25  13:15    <DIR>          9a
+29-Sep-25  15:58    <DIR>          9f
+04-Oct-25  13:11    <DIR>          a6
+29-Sep-25  15:57    <DIR>          ae
+04-Oct-25  14:12    <DIR>          af
+29-Sep-25  19:58    <DIR>          b2
+04-Oct-25  14:12    <DIR>          b4
+04-Oct-25  14:12    <DIR>          b9
+04-Oct-25  14:12    <DIR>          bf
+04-Oct-25  13:10    <DIR>          c3
+04-Oct-25  11:58    <DIR>          ca
+29-Sep-25  14:59    <DIR>          d2
+29-Sep-25  15:58    <DIR>          d4
+29-Sep-25  13:42    <DIR>          d8
+29-Sep-25  15:58    <DIR>          da
+04-Oct-25  13:11    <DIR>          dd
+29-Sep-25  14:59    <DIR>          df
+29-Sep-25  15:00    <DIR>          e3
+29-Sep-25  14:59    <DIR>          e5
+04-Oct-25  11:58    <DIR>          e6
+04-Oct-25  14:12    <DIR>          e7
+29-Sep-25  15:10    <DIR>          ea
+04-Oct-25  11:58    <DIR>          ec
+29-Sep-25  19:59    <DIR>          f0
+04-Oct-25  13:10    <DIR>          f4
+29-Sep-25  15:58    <DIR>          f9
+29-Sep-25  15:58    <DIR>          fc
+29-Sep-25  15:13    <DIR>          ff
+29-Sep-25  13:23    <DIR>          info
+29-Sep-25  13:23    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\06
+
+29-Sep-25  14:59    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  14:59             2,923 acd6b182be375fb90e28fee17059a07a923b8f
+               1 File(s)          2,923 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\07
+
+29-Sep-25  15:13    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:13             2,942 77f97eb03ae5374d9559c1331feddf9ae29f50
+               1 File(s)          2,942 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\0c
+
+29-Sep-25  15:14    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:14               186 b414b2c82d6ca71dc527a182a14feacd0bad7c
+               1 File(s)            186 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\0e
+
+04-Oct-25  14:12    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  14:12               184 407ccee55199e35feee42c04523ee8c19464e7
+               1 File(s)            184 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\10
+
+29-Sep-25  15:14    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:14               182 f47b1a7aa989dfd2e5d0520531ca9f740efd44
+               1 File(s)            182 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\11
+
+04-Oct-25  14:12    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  14:12               283 e41e62ca1fa364e9b2a62dac249c2dfdf7f974
+               1 File(s)            283 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\20
+
+04-Oct-25  12:02    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  12:02               250 db1932fb1e7cd2d1fb01472a30acb43c4cb4eb
+               1 File(s)            250 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\2a
+
+04-Oct-25  13:15    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  13:15             1,053 e4759e47d920f58e925bc2f2462b634caeb04d
+               1 File(s)          1,053 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\2b
+
+29-Sep-25  15:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:58             1,044 05f41c43d678c23e050490f038537858865ec1
+               1 File(s)          1,044 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\2f
+
+04-Oct-25  14:12    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  13:10             2,718 4e13ae8ab973d9db3afce7e192f012711a4c49
+04-Oct-25  14:12             2,378 9ef452cdad44e83fc507776438232c972cf994
+               2 File(s)          5,096 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\30
+
+04-Oct-25  14:12    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  14:12             1,484 6894560ca51330370f1430786163ed0ab92ee2
+               1 File(s)          1,484 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\32
+
+04-Oct-25  12:02    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  12:02               182 ebf45df82c752be3db87c76a18d9add123ac40
+               1 File(s)            182 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\41
+
+04-Oct-25  11:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  11:58             3,985 5ebd8c05a50a8a56f18e1827d3b1b1e98cb811
+29-Sep-25  15:58               184 7c86fe7f5c0cd559eab8cce60f9a89e2e51ecc
+29-Sep-25  15:58             2,969 cf8fd5580de5ad20bc281ab4575ae1701a586e
+               3 File(s)          7,138 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\48
+
+29-Sep-25  15:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:58               137 f0669134a22eb449d9f4bfcd7a3ac461e694f3
+               1 File(s)            137 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\4b
+
+29-Sep-25  15:13    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:13               183 6045ca01390984a0e0c03d52608d5d1156e769
+               1 File(s)            183 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\51
+
+29-Sep-25  19:59    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  19:59               183 05a1200bea1bbda1a20bab539c883f0a741bb4
+               1 File(s)            183 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\55
+
+04-Oct-25  13:11    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:58               183 4faeace79b49a277d627462c8a535e8580cbbb
+04-Oct-25  13:11               251 a165370ce7786f0c2ebc36816114f9f67b1cdf
+               2 File(s)            434 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\56
+
+04-Oct-25  14:12    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  14:12             3,270 e275822eedee6031865b170b54de1156ef2ca1
+04-Oct-25  14:12             2,173 e3258d5086e09fbb1ae3e73816f40c3509b2da
+               2 File(s)          5,443 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\57
+
+04-Oct-25  11:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  11:58               329 fb885e117d8c732c5bcf58100bf5af4187bd50
+               1 File(s)            329 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\65
+
+29-Sep-25  15:12    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:12             1,047 602d002189c41b7152da30e3be3029b2cc89eb
+               1 File(s)          1,047 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\74
+
+29-Sep-25  15:00    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:00               185 d36fcc301a09f086b65b1a0defddcbc0c500eb
+               1 File(s)            185 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\79
+
+04-Oct-25  12:02    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  12:02               173 e5c82bd00d1ecdba76439422293549776a676d
+               1 File(s)            173 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\7c
+
+04-Oct-25  13:10    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  13:10               649 551f69035af3e28f96fa17d4427b805d14f14f
+               1 File(s)            649 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\7f
+
+29-Sep-25  15:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:58               187 8b024a9183d114d66e2d6196574ec497770ab4
+               1 File(s)            187 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\80
+
+29-Sep-25  15:00    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:00               134 19950378106a791cb23a3ae80d1c19c33381ec
+               1 File(s)            134 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\87
+
+29-Sep-25  15:00    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:00                65 e6c582d95bc7460546c7b91816fd099ba07e9a
+               1 File(s)             65 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\88
+
+29-Sep-25  19:59    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  19:59               177 e3e207b57e817b535c05b21ec03ec1da7451bc
+               1 File(s)            177 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\8d
+
+04-Oct-25  12:02    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  12:02               178 034090e3f55cea2d95dd45d7f94c59860de25c
+               1 File(s)            178 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\8f
+
+04-Oct-25  13:10    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  13:10             3,964 8962d451cc7336e4788913acf4057559b54ed6
+               1 File(s)          3,964 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\92
+
+04-Oct-25  13:11    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  13:11               183 f1ad8129ca957a6ef81e73e164420b9a5b385a
+               1 File(s)            183 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\95
+
+29-Sep-25  19:59    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  19:59                64 effea599a1bb4951cbcfba0552cec1e294e514
+               1 File(s)             64 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\98
+
+04-Oct-25  13:15    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  13:15               180 c35f7d73bf7678fdc0a229154ddd32ea4c52ca
+29-Sep-25  15:14               108 c8196e4c2a95ed858807f95b0c176c9fd7fd65
+               2 File(s)            288 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\99
+
+29-Sep-25  13:42    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  13:42               121 b38e2f2607fa81672f3ee6e530add17ba88159
+               1 File(s)            121 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\9a
+
+04-Oct-25  13:15    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  13:15               183 8cf1fa0b68982b4f4f7ae5be90f00f8625c0bc
+               1 File(s)            183 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\9f
+
+29-Sep-25  15:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  13:42             1,027 8daa29b99427dc36f3eeee16de60bc7bcffd70
+29-Sep-25  15:58               762 a0d6d4b1690665c34681171dc3095a9967dbd4
+               2 File(s)          1,789 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\a6
+
+04-Oct-25  13:11    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  13:11               274 79ebfdc424ca2f1f470b7b4321fcb164ec4c69
+               1 File(s)            274 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\ae
+
+29-Sep-25  15:57    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:57             2,788 d8dd314957327ae5595f760a8522aee7053272
+               1 File(s)          2,788 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\af
+
+04-Oct-25  14:12    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  14:12               311 6d64b18eb3332ead0a03e0e42e57e66410bb74
+               1 File(s)            311 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\b2
+
+29-Sep-25  19:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  19:58             4,165 fcddbee7e4be881c91a1735ba3ce9dc72f5902
+               1 File(s)          4,165 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\b4
+
+04-Oct-25  14:12    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  14:12             2,275 cde3b6a78e02e911b50e626d88a17fc4d39251
+               1 File(s)          2,275 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\b9
+
+04-Oct-25  14:12    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  14:12             2,634 3f24026f5290fa4dd4aacb0fd898806254e9a8
+               1 File(s)          2,634 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\bf
+
+04-Oct-25  14:12    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  14:12               174 a94be4f5efd9b966cb804b4af73720f399509c
+               1 File(s)            174 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\c3
+
+04-Oct-25  13:10    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  13:10             1,026 9a60dacea6a739579c1ffce7cafa65af2976b0
+               1 File(s)          1,026 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\ca
+
+04-Oct-25  11:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  11:58             2,878 16f263bff664d514d7a335976076ff0106a0c4
+               1 File(s)          2,878 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\d2
+
+29-Sep-25  14:59    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  14:59               811 11bc8c0e7aa8f2e068f36597a11a84aa7f0d7d
+               1 File(s)            811 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\d4
+
+29-Sep-25  15:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:58               101 746a92c67b7398ffc1dbb3cdf1ced2fd59c68a
+               1 File(s)            101 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\d8
+
+29-Sep-25  13:42    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  13:42               169 2837e9f7f4dd221ea9d6a60b4343a13d2e4ffc
+               1 File(s)            169 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\da
+
+29-Sep-25  15:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:58             2,940 7ef30408c06296a22e7f8745c9a32948ee1092
+               1 File(s)          2,940 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\dd
+
+04-Oct-25  13:11    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  13:11               176 cacb1f412d3a9f1b6212a51a5e8b3dae8f25d0
+               1 File(s)            176 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\df
+
+29-Sep-25  14:59    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  14:59               918 32f136d39eb10fe07689925a1ff498cd67b375
+               1 File(s)            918 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\e3
+
+29-Sep-25  15:00    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:00               183 9e35cf5c3a2bd3cfac6cd0795ceb74fb10bc0d
+               1 File(s)            183 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\e5
+
+29-Sep-25  14:59    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  14:59               791 8ceb355019a475c86154989654b91e360b0abe
+               1 File(s)            791 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\e6
+
+04-Oct-25  11:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  14:12                15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+               1 File(s)             15 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\e7
+
+04-Oct-25  14:12    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  14:12             1,891 8446594cad8e04c91f42a65fa296822ce40a66
+               1 File(s)          1,891 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\ea
+
+29-Sep-25  15:10    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:10             1,044 ca42a1a909a18f7c365bfe25040ffa481f443a
+               1 File(s)          1,044 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\ec
+
+04-Oct-25  11:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  11:58             3,201 23247ea8ad47fe3b585608fc5be4df9fadd3cc
+               1 File(s)          3,201 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\f0
+
+29-Sep-25  19:59    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  19:59               175 182edcd449fc975399164e87c8170d106da0ea
+               1 File(s)            175 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\f4
+
+04-Oct-25  13:10    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  13:10             3,123 541d34d046829f80cf2e4057bb30642c9f87cf
+               1 File(s)          3,123 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\f9
+
+29-Sep-25  15:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:58               138 4246d9a940d9605f544c9e4f92cde3b7c47879
+               1 File(s)            138 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\fc
+
+29-Sep-25  15:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:58               178 d132b57e898217eef1957aede786bc76b390e2
+               1 File(s)            178 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\ff
+
+29-Sep-25  15:13    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  15:13               192 3b1f275b4d33ac74773e33980f7c3f77b2e908
+               1 File(s)            192 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\info
+
+29-Sep-25  13:23    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\objects\pack
+
+29-Sep-25  13:23    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  13:23             1,268 pack-3f1bcfe603aec425c6ee94d7d09ffb362722f071.idx
+29-Sep-25  13:23            16,124 pack-3f1bcfe603aec425c6ee94d7d09ffb362722f071.pack
+               2 File(s)         17,392 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\refs
+
+29-Sep-25  13:23    <DIR>          .
+04-Oct-25  14:12    <DIR>          heads
+29-Sep-25  13:23    <DIR>          remotes
+29-Sep-25  13:23    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\refs\heads
+
+04-Oct-25  14:12    <DIR>          .
+29-Sep-25  13:23    <DIR>          ..
+04-Oct-25  14:12                41 dev
+29-Sep-25  13:42                41 main
+               2 File(s)             82 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\refs\remotes
+
+29-Sep-25  13:23    <DIR>          .
+29-Sep-25  13:23    <DIR>          ..
+29-Sep-25  19:59    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\refs\remotes\origin
+
+29-Sep-25  19:59    <DIR>          .
+29-Sep-25  13:23    <DIR>          ..
+29-Sep-25  19:59                41 dev
+29-Sep-25  13:23                30 HEAD
+29-Sep-25  13:43                41 main
+               3 File(s)            112 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\.git\refs\tags
+
+29-Sep-25  13:23    <DIR>          .
+29-Sep-25  13:23    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\1.src
+
+04-Oct-25  14:12    <DIR>          .
+04-Oct-25  14:59    <DIR>          ..
+29-Sep-25  22:23             8,217 analyzePlateSize.m
+29-Sep-25  15:54            12,624 createMappingFiles.m
+04-Oct-25  12:58    <DIR>          detection
+29-Sep-25  15:54            10,174 generateQuickTemplates.m
+29-Sep-25  17:02    <DIR>          preprocessing
+04-Oct-25  14:41    <DIR>          recognition
+29-Sep-25  13:48    <DIR>          segmentation
+04-Oct-25  14:13    <DIR>          test
+29-Sep-25  16:45            11,180 testTemplates.m
+               4 File(s)         42,195 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\1.src\detection
+
+04-Oct-25  12:58    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+30-Sep-25  07:22               562 debug.m
+04-Oct-25  12:45            11,440 detectPlate.m
+04-Oct-25  12:58             1,553 detectPlateBoth.m
+04-Oct-25  12:55             8,168 detectPlateColor.m
+30-Sep-25  07:34            10,951 detectPlateDebug.m
+04-Oct-25  12:19             2,637 extractPlate.m
+04-Oct-25  13:05            10,597 testDetection.m
+29-Sep-25  21:29                 0 visualizeDetection.m
+               8 File(s)         45,908 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\1.src\preprocessing
+
+29-Sep-25  17:02    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+29-Sep-25  17:06            13,452 preprocessSamples.m
+               1 File(s)         13,452 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\1.src\recognition
+
+04-Oct-25  14:41    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+04-Oct-25  14:29            10,279 batchProcessAll.m
+04-Oct-25  13:49             4,038 matchTemplate.m
+04-Oct-25  13:37             5,788 preprocessPlate.m
+04-Oct-25  14:07            11,140 readPlate.m
+04-Oct-25  13:50             7,997 recognizeCharacter.m
+04-Oct-25  14:32             6,911 segmentCharacters.m
+04-Oct-25  14:41             5,062 testOCRRecognition.m
+04-Oct-25  13:27                 0 testRecognition.m
+04-Oct-25  13:58             7,605 testScript.m
+04-Oct-25  14:04             8,008 validatePlateFormat.m
+              10 File(s)         66,828 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\1.src\segmentation
+
+29-Sep-25  13:48    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\1.src\test
+
+04-Oct-25  14:13    <DIR>          .
+04-Oct-25  14:12    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data
+
+04-Oct-25  12:26    <DIR>          .
+04-Oct-25  14:59    <DIR>          ..
+29-Sep-25  16:57             7,748 color_distribution.mat
+29-Sep-25  16:57            44,349 color_distribution.png
+29-Sep-25  16:57             8,703 color_summary.txt
+29-Sep-25  17:07    <DIR>          comparison
+04-Oct-25  13:08    <DIR>          detected_plates
+29-Sep-25  13:35    <DIR>          images
+29-Sep-25  17:06    <DIR>          preprocessed
+29-Sep-25  17:07             6,405 preprocessing_results.mat
+29-Sep-25  16:31    <DIR>          samples
+               4 File(s)         67,205 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\comparison
+
+29-Sep-25  17:07    <DIR>          .
+04-Oct-25  12:26    <DIR>          ..
+29-Sep-25  17:07           134,814 methods_comparison.png
+               1 File(s)        134,814 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\detected_plates
+
+04-Oct-25  13:08    <DIR>          .
+04-Oct-25  12:26    <DIR>          ..
+04-Oct-25  13:08               901 detection_report.txt
+04-Oct-25  13:08             1,267 detection_results.mat
+04-Oct-25  13:08            70,497 detection_statistics.png
+04-Oct-25  13:08            81,064 LPR0001_plate.png
+04-Oct-25  13:08            15,016 LPR0002_plate.png
+04-Oct-25  13:08            26,525 LPR0003_plate.png
+04-Oct-25  13:08            17,230 LPR0004_plate.png
+04-Oct-25  13:08             5,430 LPR0005_plate.png
+04-Oct-25  13:08            25,897 LPR0006_plate.png
+04-Oct-25  13:08             8,652 LPR0007_plate.png
+04-Oct-25  13:08            39,164 LPR0008_plate.png
+04-Oct-25  13:08            75,323 LPR0009_plate.png
+04-Oct-25  13:08            28,737 LPR0010_plate.png
+04-Oct-25  13:08            53,832 LPR0011_plate.png
+04-Oct-25  13:08            62,083 LPR0012_plate.png
+04-Oct-25  13:08            68,306 LPR0014_plate.png
+04-Oct-25  13:08            63,085 LPR0015_plate.png
+04-Oct-25  13:08             4,284 LPR0016_plate.png
+04-Oct-25  13:08           152,352 LPR0017_plate.png
+04-Oct-25  13:08           127,879 LPR0018_plate.png
+04-Oct-25  13:08            25,070 LPR0020_plate.png
+04-Oct-25  13:08            37,326 LPR0022_plate.png
+04-Oct-25  13:08            19,513 LPR0023_plate.png
+04-Oct-25  13:08             7,617 LPR0024_plate.png
+04-Oct-25  13:08            10,126 LPR0025_plate.png
+04-Oct-25  13:08             7,492 LPR0026_plate.png
+04-Oct-25  13:08            88,931 LPR0028_plate.png
+04-Oct-25  13:08            59,591 LPR0029_plate.png
+04-Oct-25  13:08            33,824 LPR0030_plate.png
+04-Oct-25  13:08            17,494 LPR0031_plate.png
+04-Oct-25  13:08           103,782 LPR0032_plate.png
+04-Oct-25  13:08            18,679 LPR0033_plate.png
+04-Oct-25  13:08            27,121 LPR0034_plate.png
+04-Oct-25  13:08            24,037 LPR0035_plate.png
+04-Oct-25  13:08             4,033 LPR0036_plate.png
+04-Oct-25  13:08             4,230 LPR0037_plate.png
+04-Oct-25  13:08            17,817 LPR0038_plate.png
+04-Oct-25  13:08            81,118 LPR0039_plate.png
+04-Oct-25  13:08            52,394 LPR0040_plate.png
+04-Oct-25  13:08            60,074 LPR0042_plate.png
+04-Oct-25  13:08            23,541 LPR0044_plate.png
+04-Oct-25  13:08            26,353 LPR0045_plate.png
+04-Oct-25  13:08            12,628 LPR0046_plate.png
+04-Oct-25  13:08             3,654 LPR0048_plate.png
+04-Oct-25  13:08            61,997 LPR0049_plate.png
+04-Oct-25  13:08            21,631 LPR0050_plate.png
+04-Oct-25  13:08            23,724 LPR0051_plate.png
+04-Oct-25  13:08            11,383 LPR0052_plate.png
+04-Oct-25  13:08           120,130 LPR0053_plate.png
+04-Oct-25  13:08            54,800 LPR0054_plate.png
+04-Oct-25  13:08            29,106 LPR0055_plate.png
+04-Oct-25  13:08            77,635 LPR0056_plate.png
+04-Oct-25  13:08             7,933 LPR0057_plate.png
+04-Oct-25  13:08            83,114 LPR0058_plate.png
+04-Oct-25  13:08             3,402 LPR0060_plate.png
+04-Oct-25  13:08           127,103 LPR0061_plate.png
+04-Oct-25  13:08            17,673 LPR0062_plate.png
+04-Oct-25  13:08            82,323 LPR0063_plate.png
+04-Oct-25  13:08           144,801 LPR0064_plate.png
+04-Oct-25  13:08            52,129 LPR0066_plate.png
+04-Oct-25  13:08            32,113 LPR0067_plate.png
+04-Oct-25  13:08             6,181 LPR0070_plate.png
+04-Oct-25  13:08            61,780 LPR0071_plate.png
+04-Oct-25  13:08            22,224 LPR0072_plate.png
+04-Oct-25  13:08            20,804 LPR0073_plate.png
+04-Oct-25  13:08            30,738 LPR0074_plate.png
+04-Oct-25  13:08            14,990 LPR0075_plate.png
+04-Oct-25  13:08            86,113 LPR0076_plate.png
+04-Oct-25  13:08            64,311 LPR0077_plate.png
+04-Oct-25  13:08            76,602 LPR0080_plate.png
+04-Oct-25  13:08            48,248 LPR0081_plate.png
+04-Oct-25  13:08            15,138 LPR0082_plate.png
+04-Oct-25  13:08             4,261 LPR0083_plate.png
+04-Oct-25  13:08           135,583 LPR0086_plate.png
+04-Oct-25  13:08             8,605 LPR0088_plate.png
+04-Oct-25  13:08            15,770 LPR0090_plate.png
+04-Oct-25  13:08            42,805 LPR0092_plate.png
+04-Oct-25  13:08            18,259 LPR0094_plate.png
+04-Oct-25  13:08           103,326 LPR0095_plate.png
+04-Oct-25  13:08            11,064 LPR0096_plate.png
+04-Oct-25  13:08            35,988 LPR0097_plate.png
+04-Oct-25  13:08            39,919 LPR0098_plate.png
+04-Oct-25  13:08            53,824 LPR0099_plate.png
+04-Oct-25  13:08            49,195 LPR0100_plate.png
+04-Oct-25  13:08            32,781 LPR0101_plate.png
+04-Oct-25  13:08           107,945 LPR0102_plate.png
+04-Oct-25  13:08            57,893 LPR0103_plate.png
+04-Oct-25  13:08            28,432 LPR0104_plate.png
+04-Oct-25  13:08            30,816 LPR0106_plate.png
+04-Oct-25  13:08             3,484 LPR0107_plate.png
+04-Oct-25  13:08            38,855 LPR0108_plate.png
+04-Oct-25  13:08             5,051 LPR0109_plate.png
+04-Oct-25  13:08            62,956 LPR0110_plate.png
+04-Oct-25  13:08             9,181 LPR0111_plate.png
+04-Oct-25  13:08            34,199 LPR0113_plate.png
+04-Oct-25  13:08            14,509 LPR0114_plate.png
+04-Oct-25  13:08           154,989 LPR0115_plate.png
+04-Oct-25  13:08             6,722 LPR0116_plate.png
+04-Oct-25  13:08            23,376 LPR0117_plate.png
+04-Oct-25  13:08            64,257 LPR0118_plate.png
+04-Oct-25  13:08             5,480 LPR0119_plate.png
+04-Oct-25  13:08            93,833 LPR0121_plate.png
+04-Oct-25  13:08            40,732 LPR0122_plate.png
+04-Oct-25  13:08           131,018 LPR0124_plate.png
+04-Oct-25  13:08           161,872 LPR0125_plate.png
+04-Oct-25  13:08            18,419 LPR0126_plate.png
+04-Oct-25  13:08            14,214 LPR0127_plate.png
+04-Oct-25  13:08             5,006 LPR0128_plate.png
+04-Oct-25  13:08            85,724 LPR0131_plate.png
+04-Oct-25  13:08             9,145 LPR0132_plate.png
+04-Oct-25  13:08            14,060 LPR0133_plate.png
+04-Oct-25  13:08            30,714 LPR0134_plate.png
+04-Oct-25  13:08           102,543 LPR0135_plate.png
+04-Oct-25  13:08            16,924 LPR0136_plate.png
+04-Oct-25  13:08            10,569 LPR0137_plate.png
+04-Oct-25  13:08            18,206 LPR0138_plate.png
+04-Oct-25  13:08            93,635 LPR0139_plate.png
+04-Oct-25  13:08             7,695 LPR0140_plate.png
+04-Oct-25  13:08            18,761 LPR0141_plate.png
+04-Oct-25  13:08            25,530 LPR0142_plate.png
+04-Oct-25  13:08            22,849 LPR0143_plate.png
+04-Oct-25  13:08           109,061 LPR0144_plate.png
+04-Oct-25  13:08            58,214 LPR0145_plate.png
+04-Oct-25  13:08            64,658 LPR0146_plate.png
+04-Oct-25  13:08            58,342 LPR0147_plate.png
+04-Oct-25  13:08            72,643 LPR0148_plate.png
+04-Oct-25  13:08            79,918 LPR0149_plate.png
+04-Oct-25  13:08            72,512 LPR0151_plate.png
+04-Oct-25  13:08           114,428 LPR0152_plate.png
+04-Oct-25  13:08             6,096 LPR0153_plate.png
+04-Oct-25  13:08            32,423 LPR0154_plate.png
+04-Oct-25  13:08           110,635 LPR0155_plate.png
+04-Oct-25  13:08            75,448 LPR0156_plate.png
+04-Oct-25  13:08            42,097 LPR0158_plate.png
+04-Oct-25  13:08            64,401 LPR0159_plate.png
+04-Oct-25  13:08             3,410 LPR0160_plate.png
+04-Oct-25  13:08            62,620 LPR0161_plate.png
+04-Oct-25  13:08            35,185 LPR0162_plate.png
+04-Oct-25  13:08             7,024 LPR0163_plate.png
+04-Oct-25  13:08            54,225 LPR0164_plate.png
+04-Oct-25  13:08            27,240 LPR0166_plate.png
+04-Oct-25  13:08             3,636 LPR0167_plate.png
+04-Oct-25  13:08            60,038 LPR0168_plate.png
+04-Oct-25  13:08             3,131 LPR0169_plate.png
+04-Oct-25  13:08            42,140 LPR0170_plate.png
+04-Oct-25  13:08            12,995 LPR0172_plate.png
+04-Oct-25  13:08            83,025 LPR0173_plate.png
+04-Oct-25  13:08            43,791 LPR0174_plate.png
+04-Oct-25  13:08            61,779 LPR0175_plate.png
+04-Oct-25  13:08            83,222 LPR0177_plate.png
+04-Oct-25  13:08             3,965 LPR0178_plate.png
+04-Oct-25  13:08           160,054 LPR0179_plate.png
+04-Oct-25  13:08            44,764 LPR0180_plate.png
+04-Oct-25  13:08             4,393 LPR0181_plate.png
+04-Oct-25  13:08            38,180 LPR0182_plate.png
+04-Oct-25  13:08            91,960 LPR0184_plate.png
+04-Oct-25  13:08            78,576 LPR0185_plate.png
+04-Oct-25  13:08            74,808 LPR0187_plate.png
+04-Oct-25  13:08            71,962 LPR0188_plate.png
+04-Oct-25  13:08            11,121 LPR0189_plate.png
+04-Oct-25  13:08            99,240 LPR0190_plate.png
+04-Oct-25  13:08            21,544 LPR0191_plate.png
+04-Oct-25  13:08            82,624 LPR0192_plate.png
+04-Oct-25  13:08             4,326 LPR0193_plate.png
+04-Oct-25  13:08            53,896 LPR0195_plate.png
+04-Oct-25  13:08            33,907 LPR0196_plate.png
+04-Oct-25  13:08            20,200 LPR0197_plate.png
+04-Oct-25  13:08           114,640 LPR0199_plate.png
+04-Oct-25  13:08            19,922 LPR0200_plate.png
+04-Oct-25  13:08             6,176 LPR0202_plate.png
+04-Oct-25  13:08            30,728 LPR0203_plate.png
+04-Oct-25  13:08            24,735 LPR0204_plate.png
+04-Oct-25  13:08            59,369 LPR0205_plate.png
+04-Oct-25  13:08            60,271 LPR0206_plate.png
+04-Oct-25  13:08            83,078 LPR0207_plate.png
+04-Oct-25  13:08            58,902 LPR0209_plate.png
+04-Oct-25  13:08            81,376 LPR0210_plate.png
+04-Oct-25  13:08            31,161 LPR0213_plate.png
+04-Oct-25  13:08            31,161 LPR0214_plate.png
+04-Oct-25  13:08            33,960 LPR0215_plate.png
+04-Oct-25  13:08            57,025 LPR0216_plate.png
+04-Oct-25  13:08            61,292 LPR0217_plate.png
+04-Oct-25  13:08            45,531 LPR0218_plate.png
+04-Oct-25  13:08            72,086 LPR0219_plate.png
+04-Oct-25  13:08            14,888 LPR0221_plate.png
+04-Oct-25  13:08            74,159 LPR0222_plate.png
+04-Oct-25  13:08            46,664 LPR0224_plate.png
+04-Oct-25  13:08            70,020 LPR0225_plate.png
+04-Oct-25  13:08             5,942 LPR0226_plate.png
+04-Oct-25  13:08            57,591 LPR0227_plate.png
+04-Oct-25  13:08             9,485 LPR0228_plate.png
+04-Oct-25  13:08            23,023 LPR0229_plate.png
+04-Oct-25  13:08            38,623 LPR0230_plate.png
+04-Oct-25  13:08            90,698 LPR0231_plate.png
+04-Oct-25  13:08            31,061 LPR0232_plate.png
+04-Oct-25  13:08           136,277 LPR0233_plate.png
+04-Oct-25  13:08            50,795 LPR0234_plate.png
+04-Oct-25  13:08             3,671 LPR0235_plate.png
+04-Oct-25  13:08             6,884 LPR0236_plate.png
+04-Oct-25  13:08            42,865 LPR0237_plate.png
+04-Oct-25  13:08            10,019 LPR0238_plate.png
+04-Oct-25  13:08            15,333 LPR0239_plate.png
+04-Oct-25  13:08            44,073 LPR0240_plate.png
+04-Oct-25  13:08           117,447 LPR0241_plate.png
+04-Oct-25  13:08            76,344 LPR0242_plate.png
+04-Oct-25  13:08           129,992 LPR0244_plate.png
+04-Oct-25  13:08            42,369 LPR0246_plate.png
+04-Oct-25  13:08            85,551 LPR0247_plate.png
+04-Oct-25  13:08             9,366 LPR0248_plate.png
+04-Oct-25  13:08            72,139 LPR0249_plate.png
+04-Oct-25  13:08            16,596 LPR0250_plate.png
+             211 File(s)      9,846,214 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\images
+
+29-Sep-25  13:35    <DIR>          .
+04-Oct-25  12:26    <DIR>          ..
+29-Sep-25  13:34         4,320,056 LPR0001.bmp
+29-Sep-25  13:34         4,320,056 LPR0002.bmp
+29-Sep-25  13:34         4,320,056 LPR0003.bmp
+29-Sep-25  13:34         4,320,056 LPR0004.bmp
+29-Sep-25  13:34         4,320,056 LPR0005.bmp
+29-Sep-25  13:34         4,320,056 LPR0006.bmp
+29-Sep-25  13:34         4,320,056 LPR0007.bmp
+29-Sep-25  13:34         4,320,056 LPR0008.bmp
+29-Sep-25  13:34         4,320,056 LPR0009.bmp
+29-Sep-25  13:34         4,320,056 LPR0010.bmp
+29-Sep-25  13:34         4,320,056 LPR0011.bmp
+29-Sep-25  13:34         4,320,056 LPR0012.bmp
+29-Sep-25  13:34         4,320,056 LPR0013.bmp
+29-Sep-25  13:34         4,320,056 LPR0014.bmp
+29-Sep-25  13:34         4,320,056 LPR0015.bmp
+29-Sep-25  13:34         4,320,056 LPR0016.bmp
+29-Sep-25  13:34         4,320,056 LPR0017.bmp
+29-Sep-25  13:34         4,320,056 LPR0018.bmp
+29-Sep-25  13:34         4,320,056 LPR0019.bmp
+29-Sep-25  13:34         4,320,056 LPR0020.bmp
+29-Sep-25  13:34         4,320,056 LPR0021.bmp
+29-Sep-25  13:34         4,320,056 LPR0022.bmp
+29-Sep-25  13:34         4,320,056 LPR0023.bmp
+29-Sep-25  13:34         4,320,056 LPR0024.bmp
+29-Sep-25  13:34         4,320,056 LPR0025.bmp
+29-Sep-25  13:34         4,320,056 LPR0026.bmp
+29-Sep-25  13:34         4,320,056 LPR0027.bmp
+29-Sep-25  13:34         4,320,056 LPR0028.bmp
+29-Sep-25  13:34         4,320,056 LPR0029.bmp
+29-Sep-25  13:34         4,320,056 LPR0030.bmp
+29-Sep-25  13:34         4,320,056 LPR0031.bmp
+29-Sep-25  13:34         4,320,056 LPR0032.bmp
+29-Sep-25  13:34         4,320,056 LPR0033.bmp
+29-Sep-25  13:34         4,320,056 LPR0034.bmp
+29-Sep-25  13:34         4,320,056 LPR0035.bmp
+29-Sep-25  13:34         4,320,056 LPR0036.bmp
+29-Sep-25  13:34         4,320,056 LPR0037.bmp
+29-Sep-25  13:34         4,320,056 LPR0038.bmp
+29-Sep-25  13:34         4,320,056 LPR0039.bmp
+29-Sep-25  13:34         4,320,056 LPR0040.bmp
+29-Sep-25  13:34         4,320,056 LPR0041.bmp
+29-Sep-25  13:34         4,320,056 LPR0042.bmp
+29-Sep-25  13:34         4,320,056 LPR0043.bmp
+29-Sep-25  13:34         4,320,056 LPR0044.bmp
+29-Sep-25  13:34         4,320,056 LPR0045.bmp
+29-Sep-25  13:34         4,320,056 LPR0046.bmp
+29-Sep-25  13:34         4,320,056 LPR0047.bmp
+29-Sep-25  13:34         4,320,056 LPR0048.bmp
+29-Sep-25  13:34         4,320,056 LPR0049.bmp
+29-Sep-25  13:34         4,320,056 LPR0050.bmp
+29-Sep-25  13:34         4,320,056 LPR0051.bmp
+29-Sep-25  13:34         4,320,056 LPR0052.bmp
+29-Sep-25  13:34         4,320,056 LPR0053.bmp
+29-Sep-25  13:34         4,320,056 LPR0054.bmp
+29-Sep-25  13:34         4,320,056 LPR0055.bmp
+29-Sep-25  13:34         4,320,056 LPR0056.bmp
+29-Sep-25  13:34         4,320,056 LPR0057.bmp
+29-Sep-25  13:34         4,320,056 LPR0058.bmp
+29-Sep-25  13:34         4,320,056 LPR0059.bmp
+29-Sep-25  13:34         4,320,056 LPR0060.bmp
+29-Sep-25  13:34         4,320,056 LPR0061.bmp
+29-Sep-25  13:34         4,320,056 LPR0062.bmp
+29-Sep-25  13:34         4,320,056 LPR0063.bmp
+29-Sep-25  13:34         4,320,056 LPR0064.bmp
+29-Sep-25  13:34         4,320,056 LPR0065.bmp
+29-Sep-25  13:34         4,320,056 LPR0066.bmp
+29-Sep-25  13:34         4,320,056 LPR0067.bmp
+29-Sep-25  13:34         4,320,056 LPR0068.bmp
+29-Sep-25  13:34         4,320,056 LPR0069.bmp
+29-Sep-25  13:34         4,320,056 LPR0070.bmp
+29-Sep-25  13:34         4,320,056 LPR0071.bmp
+29-Sep-25  13:34         4,320,056 LPR0072.bmp
+29-Sep-25  13:34         4,320,056 LPR0073.bmp
+29-Sep-25  13:34         4,320,056 LPR0074.bmp
+29-Sep-25  13:34         4,320,056 LPR0075.bmp
+29-Sep-25  13:34         4,320,056 LPR0076.bmp
+29-Sep-25  13:34         4,320,056 LPR0077.bmp
+29-Sep-25  13:34         4,320,056 LPR0078.bmp
+29-Sep-25  13:34         4,320,056 LPR0079.bmp
+29-Sep-25  13:34         4,320,056 LPR0080.bmp
+29-Sep-25  13:34         4,320,056 LPR0081.bmp
+29-Sep-25  13:34         4,320,056 LPR0082.bmp
+29-Sep-25  13:34         4,320,056 LPR0083.bmp
+29-Sep-25  13:34         4,320,056 LPR0084.bmp
+29-Sep-25  13:34         4,320,056 LPR0085.bmp
+29-Sep-25  13:34         4,320,056 LPR0086.bmp
+29-Sep-25  13:34         4,320,056 LPR0087.bmp
+29-Sep-25  13:34         4,320,056 LPR0088.bmp
+29-Sep-25  13:34         4,320,056 LPR0089.bmp
+29-Sep-25  13:34         4,320,056 LPR0090.bmp
+29-Sep-25  13:34         4,320,056 LPR0091.bmp
+29-Sep-25  13:34         4,320,056 LPR0092.bmp
+29-Sep-25  13:34         4,320,056 LPR0093.bmp
+29-Sep-25  13:34         4,320,056 LPR0094.bmp
+29-Sep-25  13:34         4,320,056 LPR0095.bmp
+29-Sep-25  13:34         4,320,056 LPR0096.bmp
+29-Sep-25  13:34         4,320,056 LPR0097.bmp
+29-Sep-25  13:34         4,320,056 LPR0098.bmp
+29-Sep-25  13:34         4,320,056 LPR0099.bmp
+29-Sep-25  13:34         4,320,056 LPR0100.bmp
+29-Sep-25  13:34         4,320,056 LPR0101.bmp
+29-Sep-25  13:34         4,320,056 LPR0102.bmp
+29-Sep-25  13:34         4,320,056 LPR0103.bmp
+29-Sep-25  13:34         4,320,056 LPR0104.bmp
+29-Sep-25  13:34         4,320,056 LPR0105.bmp
+29-Sep-25  13:34         4,320,056 LPR0106.bmp
+29-Sep-25  13:34         4,320,056 LPR0107.bmp
+29-Sep-25  13:34         4,320,056 LPR0108.bmp
+29-Sep-25  13:34         4,320,056 LPR0109.bmp
+29-Sep-25  13:34         4,320,056 LPR0110.bmp
+29-Sep-25  13:34         4,320,056 LPR0111.bmp
+29-Sep-25  13:34         4,320,056 LPR0112.bmp
+29-Sep-25  13:34         4,320,056 LPR0113.bmp
+29-Sep-25  13:34         4,320,056 LPR0114.bmp
+29-Sep-25  13:34         4,320,056 LPR0115.bmp
+29-Sep-25  13:34         4,320,056 LPR0116.bmp
+29-Sep-25  13:34         4,320,056 LPR0117.bmp
+29-Sep-25  13:34         4,320,056 LPR0118.bmp
+29-Sep-25  13:34         4,320,056 LPR0119.bmp
+29-Sep-25  13:34         4,320,056 LPR0120.bmp
+29-Sep-25  13:34         4,320,056 LPR0121.bmp
+29-Sep-25  13:34         4,320,056 LPR0122.bmp
+29-Sep-25  13:34         4,320,056 LPR0123.bmp
+29-Sep-25  13:34         4,320,056 LPR0124.bmp
+29-Sep-25  13:34         4,320,056 LPR0125.bmp
+29-Sep-25  13:34         4,320,056 LPR0126.bmp
+29-Sep-25  13:34         4,320,056 LPR0127.bmp
+29-Sep-25  13:34         4,320,056 LPR0128.bmp
+29-Sep-25  13:34         4,320,056 LPR0129.bmp
+29-Sep-25  13:34         4,320,056 LPR0130.bmp
+29-Sep-25  13:34         4,320,056 LPR0131.bmp
+29-Sep-25  13:34         4,320,056 LPR0132.bmp
+29-Sep-25  13:34         4,320,056 LPR0133.bmp
+29-Sep-25  13:34         4,320,056 LPR0134.bmp
+29-Sep-25  13:34         4,320,056 LPR0135.bmp
+29-Sep-25  13:34         4,320,056 LPR0136.bmp
+29-Sep-25  13:34         4,320,056 LPR0137.bmp
+29-Sep-25  13:34         4,320,056 LPR0138.bmp
+29-Sep-25  13:34         4,320,056 LPR0139.bmp
+29-Sep-25  13:34         4,320,056 LPR0140.bmp
+29-Sep-25  13:34         4,320,056 LPR0141.bmp
+29-Sep-25  13:34         4,320,056 LPR0142.bmp
+29-Sep-25  13:34         4,320,056 LPR0143.bmp
+29-Sep-25  13:34         4,320,056 LPR0144.bmp
+29-Sep-25  13:34         4,320,056 LPR0145.bmp
+29-Sep-25  13:34         4,320,056 LPR0146.bmp
+29-Sep-25  13:34         4,320,056 LPR0147.bmp
+29-Sep-25  13:34         4,320,056 LPR0148.bmp
+29-Sep-25  13:34         4,320,056 LPR0149.bmp
+29-Sep-25  13:34         4,320,056 LPR0150.bmp
+29-Sep-25  13:34         4,320,056 LPR0151.bmp
+29-Sep-25  13:34         4,320,056 LPR0152.bmp
+29-Sep-25  13:34         4,320,056 LPR0153.bmp
+29-Sep-25  13:34         4,320,056 LPR0154.bmp
+29-Sep-25  13:34         4,320,056 LPR0155.bmp
+29-Sep-25  13:34         4,320,056 LPR0156.bmp
+29-Sep-25  13:34         4,320,056 LPR0157.bmp
+29-Sep-25  13:34         4,320,056 LPR0158.bmp
+29-Sep-25  13:34         4,320,056 LPR0159.bmp
+29-Sep-25  13:34         4,320,056 LPR0160.bmp
+29-Sep-25  13:34         4,320,056 LPR0161.bmp
+29-Sep-25  13:34         4,320,056 LPR0162.bmp
+29-Sep-25  13:34         4,320,056 LPR0163.bmp
+29-Sep-25  13:34         4,320,056 LPR0164.bmp
+29-Sep-25  13:34         4,320,056 LPR0165.bmp
+29-Sep-25  13:34         4,320,056 LPR0166.bmp
+29-Sep-25  13:34         4,320,056 LPR0167.bmp
+29-Sep-25  13:34         4,320,056 LPR0168.bmp
+29-Sep-25  13:34         4,320,056 LPR0169.bmp
+29-Sep-25  13:34         4,320,056 LPR0170.bmp
+29-Sep-25  13:34         4,320,056 LPR0171.bmp
+29-Sep-25  13:34         4,320,056 LPR0172.bmp
+29-Sep-25  13:34         4,320,056 LPR0173.bmp
+29-Sep-25  13:34         4,320,056 LPR0174.bmp
+29-Sep-25  13:34         4,320,056 LPR0175.bmp
+29-Sep-25  13:34         4,320,056 LPR0176.bmp
+29-Sep-25  13:34         4,320,056 LPR0177.bmp
+29-Sep-25  13:34         4,320,056 LPR0178.bmp
+29-Sep-25  13:34         4,320,056 LPR0179.bmp
+29-Sep-25  13:34         4,320,056 LPR0180.bmp
+29-Sep-25  13:34         4,320,056 LPR0181.bmp
+29-Sep-25  13:34         4,320,056 LPR0182.bmp
+29-Sep-25  13:34         4,320,056 LPR0183.bmp
+29-Sep-25  13:34         4,320,056 LPR0184.bmp
+29-Sep-25  13:34         4,320,056 LPR0185.bmp
+29-Sep-25  13:34         4,320,056 LPR0186.bmp
+29-Sep-25  13:34         4,320,056 LPR0187.bmp
+29-Sep-25  13:34         4,320,056 LPR0188.bmp
+29-Sep-25  13:34         4,320,056 LPR0189.bmp
+29-Sep-25  13:34         4,320,056 LPR0190.bmp
+29-Sep-25  13:34         4,320,054 LPR0191.bmp
+29-Sep-25  13:34         4,320,056 LPR0192.bmp
+29-Sep-25  13:34         4,320,056 LPR0193.bmp
+29-Sep-25  13:34         4,320,056 LPR0194.bmp
+29-Sep-25  13:34         4,320,056 LPR0195.bmp
+29-Sep-25  13:34         4,320,056 LPR0196.bmp
+29-Sep-25  13:34         4,320,056 LPR0197.bmp
+29-Sep-25  13:34         4,320,056 LPR0198.bmp
+29-Sep-25  13:34         4,320,056 LPR0199.bmp
+29-Sep-25  13:34         4,320,056 LPR0200.bmp
+29-Sep-25  13:34         4,320,056 LPR0201.bmp
+29-Sep-25  13:34         4,320,056 LPR0202.bmp
+29-Sep-25  13:34         4,320,056 LPR0203.bmp
+29-Sep-25  13:34         4,320,056 LPR0204.bmp
+29-Sep-25  13:34         4,320,056 LPR0205.bmp
+29-Sep-25  13:34         4,320,056 LPR0206.bmp
+29-Sep-25  13:34         4,320,056 LPR0207.bmp
+29-Sep-25  13:34         4,320,056 LPR0208.bmp
+29-Sep-25  13:34         4,320,056 LPR0209.bmp
+29-Sep-25  13:34         4,320,056 LPR0210.bmp
+29-Sep-25  13:34         4,320,056 LPR0211.bmp
+29-Sep-25  13:34         4,320,056 LPR0212.bmp
+29-Sep-25  13:34         4,320,056 LPR0213.bmp
+29-Sep-25  13:34         4,320,056 LPR0214.bmp
+29-Sep-25  13:34         4,320,056 LPR0215.bmp
+29-Sep-25  13:34         4,320,056 LPR0216.bmp
+29-Sep-25  13:34         4,320,056 LPR0217.bmp
+29-Sep-25  13:34         4,320,056 LPR0218.bmp
+29-Sep-25  13:34         4,320,056 LPR0219.bmp
+29-Sep-25  13:34         4,320,056 LPR0220.bmp
+29-Sep-25  13:34         4,320,056 LPR0221.bmp
+29-Sep-25  13:34         4,320,056 LPR0222.bmp
+29-Sep-25  13:34         4,320,056 LPR0223.bmp
+29-Sep-25  13:34         4,320,056 LPR0224.bmp
+29-Sep-25  13:34         4,320,056 LPR0225.bmp
+29-Sep-25  13:34         4,320,056 LPR0226.bmp
+29-Sep-25  13:34         4,320,056 LPR0227.bmp
+29-Sep-25  13:34         4,320,056 LPR0228.bmp
+29-Sep-25  13:34         4,320,056 LPR0229.bmp
+29-Sep-25  13:34         4,320,056 LPR0230.bmp
+29-Sep-25  13:34         4,320,056 LPR0231.bmp
+29-Sep-25  13:34         4,320,056 LPR0232.bmp
+29-Sep-25  13:34         4,320,056 LPR0233.bmp
+29-Sep-25  13:34         4,320,056 LPR0234.bmp
+29-Sep-25  13:34         4,320,056 LPR0235.bmp
+29-Sep-25  13:34         4,320,056 LPR0236.bmp
+29-Sep-25  13:34         4,320,056 LPR0237.bmp
+29-Sep-25  13:34         4,320,056 LPR0238.bmp
+29-Sep-25  13:34         4,320,056 LPR0239.bmp
+29-Sep-25  13:34         4,320,056 LPR0240.bmp
+29-Sep-25  13:34         4,320,056 LPR0241.bmp
+29-Sep-25  13:34         4,320,056 LPR0242.bmp
+29-Sep-25  13:34         4,320,056 LPR0243.bmp
+29-Sep-25  13:34         4,320,056 LPR0244.bmp
+29-Sep-25  13:34         4,320,056 LPR0245.bmp
+29-Sep-25  13:34         4,320,056 LPR0246.bmp
+29-Sep-25  13:34         4,320,056 LPR0247.bmp
+29-Sep-25  13:34         4,320,056 LPR0248.bmp
+29-Sep-25  13:34         4,320,056 LPR0249.bmp
+29-Sep-25  13:34         4,320,056 LPR0250.bmp
+             250 File(s)  1,080,013,998 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed
+
+29-Sep-25  17:06    <DIR>          .
+04-Oct-25  12:26    <DIR>          ..
+29-Sep-25  17:06    <DIR>          green
+29-Sep-25  16:32    <DIR>          others
+29-Sep-25  17:06    <DIR>          red
+29-Sep-25  17:06    <DIR>          white
+29-Sep-25  17:06    <DIR>          yellow
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\green
+
+29-Sep-25  17:06    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07    <DIR>          method1_standard
+29-Sep-25  17:07    <DIR>          method2_lab
+29-Sep-25  17:07    <DIR>          method3_auto_channel
+29-Sep-25  17:07    <DIR>          method4_hsv
+29-Sep-25  17:07    <DIR>          method5_adaptive
+29-Sep-25  17:07    <DIR>          original
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\green\method1_standard
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0002.bmp
+29-Sep-25  17:07         1,441,078 LPR0005.bmp
+29-Sep-25  17:07         1,441,078 LPR0007.bmp
+29-Sep-25  17:07         1,441,078 LPR0016.bmp
+29-Sep-25  17:07         1,441,078 LPR0019.bmp
+29-Sep-25  17:07         1,441,078 LPR0026.bmp
+29-Sep-25  17:07         1,441,078 LPR0033.bmp
+29-Sep-25  17:07         1,441,078 LPR0036.bmp
+29-Sep-25  17:07         1,441,078 LPR0048.bmp
+29-Sep-25  17:07         1,441,078 LPR0065.bmp
+29-Sep-25  17:07         1,441,078 LPR0074.bmp
+29-Sep-25  17:07         1,441,078 LPR0075.bmp
+29-Sep-25  17:07         1,441,078 LPR0078.bmp
+29-Sep-25  17:07         1,441,078 LPR0085.bmp
+29-Sep-25  17:07         1,441,078 LPR0093.bmp
+29-Sep-25  17:07         1,441,078 LPR0099.bmp
+29-Sep-25  17:07         1,441,078 LPR0100.bmp
+              17 File(s)     24,498,326 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\green\method2_lab
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0002.bmp
+29-Sep-25  17:07         1,441,078 LPR0005.bmp
+29-Sep-25  17:07         1,441,078 LPR0007.bmp
+29-Sep-25  17:07         1,441,078 LPR0016.bmp
+29-Sep-25  17:07         1,441,078 LPR0019.bmp
+29-Sep-25  17:07         1,441,078 LPR0026.bmp
+29-Sep-25  17:07         1,441,078 LPR0033.bmp
+29-Sep-25  17:07         1,441,078 LPR0036.bmp
+29-Sep-25  17:07         1,441,078 LPR0048.bmp
+29-Sep-25  17:07         1,441,078 LPR0065.bmp
+29-Sep-25  17:07         1,441,078 LPR0074.bmp
+29-Sep-25  17:07         1,441,078 LPR0075.bmp
+29-Sep-25  17:07         1,441,078 LPR0078.bmp
+29-Sep-25  17:07         1,441,078 LPR0085.bmp
+29-Sep-25  17:07         1,441,078 LPR0093.bmp
+29-Sep-25  17:07         1,441,078 LPR0099.bmp
+29-Sep-25  17:07         1,441,078 LPR0100.bmp
+              17 File(s)     24,498,326 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\green\method3_auto_channel
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0002.bmp
+29-Sep-25  17:07         1,441,078 LPR0005.bmp
+29-Sep-25  17:07         1,441,078 LPR0007.bmp
+29-Sep-25  17:07         1,441,078 LPR0016.bmp
+29-Sep-25  17:07         1,441,078 LPR0019.bmp
+29-Sep-25  17:07         1,441,078 LPR0026.bmp
+29-Sep-25  17:07         1,441,078 LPR0033.bmp
+29-Sep-25  17:07         1,441,078 LPR0036.bmp
+29-Sep-25  17:07         1,441,078 LPR0048.bmp
+29-Sep-25  17:07         1,441,078 LPR0065.bmp
+29-Sep-25  17:07         1,441,078 LPR0074.bmp
+29-Sep-25  17:07         1,441,078 LPR0075.bmp
+29-Sep-25  17:07         1,441,078 LPR0078.bmp
+29-Sep-25  17:07         1,441,078 LPR0085.bmp
+29-Sep-25  17:07         1,441,078 LPR0093.bmp
+29-Sep-25  17:07         1,441,078 LPR0099.bmp
+29-Sep-25  17:07         1,441,078 LPR0100.bmp
+              17 File(s)     24,498,326 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\green\method4_hsv
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0002.bmp
+29-Sep-25  17:07         1,441,078 LPR0005.bmp
+29-Sep-25  17:07         1,441,078 LPR0007.bmp
+29-Sep-25  17:07         1,441,078 LPR0016.bmp
+29-Sep-25  17:07         1,441,078 LPR0019.bmp
+29-Sep-25  17:07         1,441,078 LPR0026.bmp
+29-Sep-25  17:07         1,441,078 LPR0033.bmp
+29-Sep-25  17:07         1,441,078 LPR0036.bmp
+29-Sep-25  17:07         1,441,078 LPR0048.bmp
+29-Sep-25  17:07         1,441,078 LPR0065.bmp
+29-Sep-25  17:07         1,441,078 LPR0074.bmp
+29-Sep-25  17:07         1,441,078 LPR0075.bmp
+29-Sep-25  17:07         1,441,078 LPR0078.bmp
+29-Sep-25  17:07         1,441,078 LPR0085.bmp
+29-Sep-25  17:07         1,441,078 LPR0093.bmp
+29-Sep-25  17:07         1,441,078 LPR0099.bmp
+29-Sep-25  17:07         1,441,078 LPR0100.bmp
+              17 File(s)     24,498,326 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\green\method5_adaptive
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0002.bmp
+29-Sep-25  17:07         1,441,078 LPR0005.bmp
+29-Sep-25  17:07         1,441,078 LPR0007.bmp
+29-Sep-25  17:07         1,441,078 LPR0016.bmp
+29-Sep-25  17:07         1,441,078 LPR0019.bmp
+29-Sep-25  17:07         1,441,078 LPR0026.bmp
+29-Sep-25  17:07         1,441,078 LPR0033.bmp
+29-Sep-25  17:07         1,441,078 LPR0036.bmp
+29-Sep-25  17:07         1,441,078 LPR0048.bmp
+29-Sep-25  17:07         1,441,078 LPR0065.bmp
+29-Sep-25  17:07         1,441,078 LPR0074.bmp
+29-Sep-25  17:07         1,441,078 LPR0075.bmp
+29-Sep-25  17:07         1,441,078 LPR0078.bmp
+29-Sep-25  17:07         1,441,078 LPR0085.bmp
+29-Sep-25  17:07         1,441,078 LPR0093.bmp
+29-Sep-25  17:07         1,441,078 LPR0099.bmp
+29-Sep-25  17:07         1,441,078 LPR0100.bmp
+              17 File(s)     24,498,326 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\green\original
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         4,320,054 LPR0002.bmp
+29-Sep-25  17:07         4,320,054 LPR0005.bmp
+29-Sep-25  17:07         4,320,054 LPR0007.bmp
+29-Sep-25  17:07         4,320,054 LPR0016.bmp
+29-Sep-25  17:07         4,320,054 LPR0019.bmp
+29-Sep-25  17:07         4,320,054 LPR0026.bmp
+29-Sep-25  17:07         4,320,054 LPR0033.bmp
+29-Sep-25  17:07         4,320,054 LPR0036.bmp
+29-Sep-25  17:07         4,320,054 LPR0048.bmp
+29-Sep-25  17:07         4,320,054 LPR0065.bmp
+29-Sep-25  17:07         4,320,054 LPR0074.bmp
+29-Sep-25  17:07         4,320,054 LPR0075.bmp
+29-Sep-25  17:07         4,320,054 LPR0078.bmp
+29-Sep-25  17:07         4,320,054 LPR0085.bmp
+29-Sep-25  17:07         4,320,054 LPR0093.bmp
+29-Sep-25  17:07         4,320,054 LPR0099.bmp
+29-Sep-25  17:07         4,320,054 LPR0100.bmp
+              17 File(s)     73,440,918 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\others
+
+29-Sep-25  16:32    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\red
+
+29-Sep-25  17:06    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07    <DIR>          method1_standard
+29-Sep-25  17:07    <DIR>          method2_lab
+29-Sep-25  17:07    <DIR>          method3_auto_channel
+29-Sep-25  17:07    <DIR>          method4_hsv
+29-Sep-25  17:07    <DIR>          method5_adaptive
+29-Sep-25  17:07    <DIR>          original
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\red\method1_standard
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0001.bmp
+29-Sep-25  17:07         1,441,078 LPR0008.bmp
+29-Sep-25  17:07         1,441,078 LPR0086.bmp
+29-Sep-25  17:07         1,441,078 LPR0103.bmp
+29-Sep-25  17:07         1,441,078 LPR0105.bmp
+29-Sep-25  17:07         1,441,078 LPR0161.bmp
+29-Sep-25  17:07         1,441,078 LPR0190.bmp
+29-Sep-25  17:07         1,441,078 LPR0243.bmp
+               8 File(s)     11,528,624 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\red\method2_lab
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0001.bmp
+29-Sep-25  17:07         1,441,078 LPR0008.bmp
+29-Sep-25  17:07         1,441,078 LPR0086.bmp
+29-Sep-25  17:07         1,441,078 LPR0103.bmp
+29-Sep-25  17:07         1,441,078 LPR0105.bmp
+29-Sep-25  17:07         1,441,078 LPR0161.bmp
+29-Sep-25  17:07         1,441,078 LPR0190.bmp
+29-Sep-25  17:07         1,441,078 LPR0243.bmp
+               8 File(s)     11,528,624 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\red\method3_auto_channel
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0001.bmp
+29-Sep-25  17:07         1,441,078 LPR0008.bmp
+29-Sep-25  17:07         1,441,078 LPR0086.bmp
+29-Sep-25  17:07         1,441,078 LPR0103.bmp
+29-Sep-25  17:07         1,441,078 LPR0105.bmp
+29-Sep-25  17:07         1,441,078 LPR0161.bmp
+29-Sep-25  17:07         1,441,078 LPR0190.bmp
+29-Sep-25  17:07         1,441,078 LPR0243.bmp
+               8 File(s)     11,528,624 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\red\method4_hsv
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0001.bmp
+29-Sep-25  17:07         1,441,078 LPR0008.bmp
+29-Sep-25  17:07         1,441,078 LPR0086.bmp
+29-Sep-25  17:07         1,441,078 LPR0103.bmp
+29-Sep-25  17:07         1,441,078 LPR0105.bmp
+29-Sep-25  17:07         1,441,078 LPR0161.bmp
+29-Sep-25  17:07         1,441,078 LPR0190.bmp
+29-Sep-25  17:07         1,441,078 LPR0243.bmp
+               8 File(s)     11,528,624 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\red\method5_adaptive
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0001.bmp
+29-Sep-25  17:07         1,441,078 LPR0008.bmp
+29-Sep-25  17:07         1,441,078 LPR0086.bmp
+29-Sep-25  17:07         1,441,078 LPR0103.bmp
+29-Sep-25  17:07         1,441,078 LPR0105.bmp
+29-Sep-25  17:07         1,441,078 LPR0161.bmp
+29-Sep-25  17:07         1,441,078 LPR0190.bmp
+29-Sep-25  17:07         1,441,078 LPR0243.bmp
+               8 File(s)     11,528,624 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\red\original
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         4,320,054 LPR0001.bmp
+29-Sep-25  17:07         4,320,054 LPR0008.bmp
+29-Sep-25  17:07         4,320,054 LPR0086.bmp
+29-Sep-25  17:07         4,320,054 LPR0103.bmp
+29-Sep-25  17:07         4,320,054 LPR0105.bmp
+29-Sep-25  17:07         4,320,054 LPR0161.bmp
+29-Sep-25  17:07         4,320,054 LPR0190.bmp
+29-Sep-25  17:07         4,320,054 LPR0243.bmp
+               8 File(s)     34,560,432 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\white
+
+29-Sep-25  17:06    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:06    <DIR>          method1_standard
+29-Sep-25  17:06    <DIR>          method2_lab
+29-Sep-25  17:06    <DIR>          method3_auto_channel
+29-Sep-25  17:06    <DIR>          method4_hsv
+29-Sep-25  17:06    <DIR>          method5_adaptive
+29-Sep-25  17:06    <DIR>          original
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\white\method1_standard
+
+29-Sep-25  17:06    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:06         1,441,078 LPR0023.bmp
+29-Sep-25  17:06         1,441,078 LPR0040.bmp
+29-Sep-25  17:06         1,441,078 LPR0046.bmp
+29-Sep-25  17:06         1,441,078 LPR0047.bmp
+29-Sep-25  17:06         1,441,078 LPR0049.bmp
+29-Sep-25  17:06         1,441,078 LPR0050.bmp
+29-Sep-25  17:06         1,441,078 LPR0053.bmp
+29-Sep-25  17:06         1,441,078 LPR0083.bmp
+29-Sep-25  17:06         1,441,078 LPR0087.bmp
+29-Sep-25  17:06         1,441,078 LPR0091.bmp
+29-Sep-25  17:06         1,441,078 LPR0095.bmp
+29-Sep-25  17:06         1,441,078 LPR0110.bmp
+29-Sep-25  17:06         1,441,078 LPR0112.bmp
+29-Sep-25  17:06         1,441,078 LPR0128.bmp
+29-Sep-25  17:06         1,441,078 LPR0164.bmp
+              15 File(s)     21,616,170 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\white\method2_lab
+
+29-Sep-25  17:06    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:06         1,441,078 LPR0023.bmp
+29-Sep-25  17:06         1,441,078 LPR0040.bmp
+29-Sep-25  17:06         1,441,078 LPR0046.bmp
+29-Sep-25  17:06         1,441,078 LPR0047.bmp
+29-Sep-25  17:06         1,441,078 LPR0049.bmp
+29-Sep-25  17:06         1,441,078 LPR0050.bmp
+29-Sep-25  17:06         1,441,078 LPR0053.bmp
+29-Sep-25  17:06         1,441,078 LPR0083.bmp
+29-Sep-25  17:06         1,441,078 LPR0087.bmp
+29-Sep-25  17:06         1,441,078 LPR0091.bmp
+29-Sep-25  17:06         1,441,078 LPR0095.bmp
+29-Sep-25  17:06         1,441,078 LPR0110.bmp
+29-Sep-25  17:06         1,441,078 LPR0112.bmp
+29-Sep-25  17:06         1,441,078 LPR0128.bmp
+29-Sep-25  17:06         1,441,078 LPR0164.bmp
+              15 File(s)     21,616,170 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\white\method3_auto_channel
+
+29-Sep-25  17:06    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:06         1,441,078 LPR0023.bmp
+29-Sep-25  17:06         1,441,078 LPR0040.bmp
+29-Sep-25  17:06         1,441,078 LPR0046.bmp
+29-Sep-25  17:06         1,441,078 LPR0047.bmp
+29-Sep-25  17:06         1,441,078 LPR0049.bmp
+29-Sep-25  17:06         1,441,078 LPR0050.bmp
+29-Sep-25  17:06         1,441,078 LPR0053.bmp
+29-Sep-25  17:06         1,441,078 LPR0083.bmp
+29-Sep-25  17:06         1,441,078 LPR0087.bmp
+29-Sep-25  17:06         1,441,078 LPR0091.bmp
+29-Sep-25  17:06         1,441,078 LPR0095.bmp
+29-Sep-25  17:06         1,441,078 LPR0110.bmp
+29-Sep-25  17:06         1,441,078 LPR0112.bmp
+29-Sep-25  17:06         1,441,078 LPR0128.bmp
+29-Sep-25  17:06         1,441,078 LPR0164.bmp
+              15 File(s)     21,616,170 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\white\method4_hsv
+
+29-Sep-25  17:06    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:06         1,441,078 LPR0023.bmp
+29-Sep-25  17:06         1,441,078 LPR0040.bmp
+29-Sep-25  17:06         1,441,078 LPR0046.bmp
+29-Sep-25  17:06         1,441,078 LPR0047.bmp
+29-Sep-25  17:06         1,441,078 LPR0049.bmp
+29-Sep-25  17:06         1,441,078 LPR0050.bmp
+29-Sep-25  17:06         1,441,078 LPR0053.bmp
+29-Sep-25  17:06         1,441,078 LPR0083.bmp
+29-Sep-25  17:06         1,441,078 LPR0087.bmp
+29-Sep-25  17:06         1,441,078 LPR0091.bmp
+29-Sep-25  17:06         1,441,078 LPR0095.bmp
+29-Sep-25  17:06         1,441,078 LPR0110.bmp
+29-Sep-25  17:06         1,441,078 LPR0112.bmp
+29-Sep-25  17:06         1,441,078 LPR0128.bmp
+29-Sep-25  17:06         1,441,078 LPR0164.bmp
+              15 File(s)     21,616,170 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\white\method5_adaptive
+
+29-Sep-25  17:06    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:06         1,441,078 LPR0023.bmp
+29-Sep-25  17:06         1,441,078 LPR0040.bmp
+29-Sep-25  17:06         1,441,078 LPR0046.bmp
+29-Sep-25  17:06         1,441,078 LPR0047.bmp
+29-Sep-25  17:06         1,441,078 LPR0049.bmp
+29-Sep-25  17:06         1,441,078 LPR0050.bmp
+29-Sep-25  17:06         1,441,078 LPR0053.bmp
+29-Sep-25  17:06         1,441,078 LPR0083.bmp
+29-Sep-25  17:06         1,441,078 LPR0087.bmp
+29-Sep-25  17:06         1,441,078 LPR0091.bmp
+29-Sep-25  17:06         1,441,078 LPR0095.bmp
+29-Sep-25  17:06         1,441,078 LPR0110.bmp
+29-Sep-25  17:06         1,441,078 LPR0112.bmp
+29-Sep-25  17:06         1,441,078 LPR0128.bmp
+29-Sep-25  17:06         1,441,078 LPR0164.bmp
+              15 File(s)     21,616,170 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\white\original
+
+29-Sep-25  17:06    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:06         4,320,054 LPR0023.bmp
+29-Sep-25  17:06         4,320,054 LPR0040.bmp
+29-Sep-25  17:06         4,320,054 LPR0046.bmp
+29-Sep-25  17:06         4,320,054 LPR0047.bmp
+29-Sep-25  17:06         4,320,054 LPR0049.bmp
+29-Sep-25  17:06         4,320,054 LPR0050.bmp
+29-Sep-25  17:06         4,320,054 LPR0053.bmp
+29-Sep-25  17:06         4,320,054 LPR0083.bmp
+29-Sep-25  17:06         4,320,054 LPR0087.bmp
+29-Sep-25  17:06         4,320,054 LPR0091.bmp
+29-Sep-25  17:06         4,320,054 LPR0095.bmp
+29-Sep-25  17:06         4,320,054 LPR0110.bmp
+29-Sep-25  17:06         4,320,054 LPR0112.bmp
+29-Sep-25  17:06         4,320,054 LPR0128.bmp
+29-Sep-25  17:06         4,320,054 LPR0164.bmp
+              15 File(s)     64,800,810 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\yellow
+
+29-Sep-25  17:06    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07    <DIR>          method1_standard
+29-Sep-25  17:07    <DIR>          method2_lab
+29-Sep-25  17:07    <DIR>          method3_auto_channel
+29-Sep-25  17:07    <DIR>          method4_hsv
+29-Sep-25  17:07    <DIR>          method5_adaptive
+29-Sep-25  17:07    <DIR>          original
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\yellow\method1_standard
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0032.bmp
+29-Sep-25  17:07         1,441,078 LPR0035.bmp
+29-Sep-25  17:07         1,441,078 LPR0041.bmp
+29-Sep-25  17:07         1,441,078 LPR0044.bmp
+29-Sep-25  17:07         1,441,078 LPR0068.bmp
+29-Sep-25  17:07         1,441,078 LPR0076.bmp
+29-Sep-25  17:07         1,441,078 LPR0080.bmp
+29-Sep-25  17:07         1,441,078 LPR0081.bmp
+29-Sep-25  17:07         1,441,078 LPR0088.bmp
+29-Sep-25  17:07         1,441,078 LPR0090.bmp
+29-Sep-25  17:07         1,441,078 LPR0115.bmp
+29-Sep-25  17:07         1,441,078 LPR0119.bmp
+29-Sep-25  17:07         1,441,078 LPR0125.bmp
+29-Sep-25  17:07         1,441,078 LPR0129.bmp
+29-Sep-25  17:07         1,441,078 LPR0136.bmp
+29-Sep-25  17:07         1,441,078 LPR0148.bmp
+29-Sep-25  17:07         1,441,078 LPR0150.bmp
+29-Sep-25  17:07         1,441,078 LPR0151.bmp
+29-Sep-25  17:07         1,441,078 LPR0159.bmp
+29-Sep-25  17:07         1,441,078 LPR0166.bmp
+29-Sep-25  17:07         1,441,078 LPR0173.bmp
+29-Sep-25  17:07         1,441,078 LPR0187.bmp
+29-Sep-25  17:07         1,441,078 LPR0188.bmp
+29-Sep-25  17:07         1,441,078 LPR0203.bmp
+29-Sep-25  17:07         1,441,078 LPR0207.bmp
+29-Sep-25  17:07         1,441,078 LPR0217.bmp
+29-Sep-25  17:07         1,441,078 LPR0220.bmp
+29-Sep-25  17:07         1,441,078 LPR0225.bmp
+29-Sep-25  17:07         1,441,078 LPR0234.bmp
+              29 File(s)     41,791,262 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\yellow\method2_lab
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0032.bmp
+29-Sep-25  17:07         1,441,078 LPR0035.bmp
+29-Sep-25  17:07         1,441,078 LPR0041.bmp
+29-Sep-25  17:07         1,441,078 LPR0044.bmp
+29-Sep-25  17:07         1,441,078 LPR0068.bmp
+29-Sep-25  17:07         1,441,078 LPR0076.bmp
+29-Sep-25  17:07         1,441,078 LPR0080.bmp
+29-Sep-25  17:07         1,441,078 LPR0081.bmp
+29-Sep-25  17:07         1,441,078 LPR0088.bmp
+29-Sep-25  17:07         1,441,078 LPR0090.bmp
+29-Sep-25  17:07         1,441,078 LPR0115.bmp
+29-Sep-25  17:07         1,441,078 LPR0119.bmp
+29-Sep-25  17:07         1,441,078 LPR0125.bmp
+29-Sep-25  17:07         1,441,078 LPR0129.bmp
+29-Sep-25  17:07         1,441,078 LPR0136.bmp
+29-Sep-25  17:07         1,441,078 LPR0148.bmp
+29-Sep-25  17:07         1,441,078 LPR0150.bmp
+29-Sep-25  17:07         1,441,078 LPR0151.bmp
+29-Sep-25  17:07         1,441,078 LPR0159.bmp
+29-Sep-25  17:07         1,441,078 LPR0166.bmp
+29-Sep-25  17:07         1,441,078 LPR0173.bmp
+29-Sep-25  17:07         1,441,078 LPR0187.bmp
+29-Sep-25  17:07         1,441,078 LPR0188.bmp
+29-Sep-25  17:07         1,441,078 LPR0203.bmp
+29-Sep-25  17:07         1,441,078 LPR0207.bmp
+29-Sep-25  17:07         1,441,078 LPR0217.bmp
+29-Sep-25  17:07         1,441,078 LPR0220.bmp
+29-Sep-25  17:07         1,441,078 LPR0225.bmp
+29-Sep-25  17:07         1,441,078 LPR0234.bmp
+              29 File(s)     41,791,262 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\yellow\method3_auto_channel
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0032.bmp
+29-Sep-25  17:07         1,441,078 LPR0035.bmp
+29-Sep-25  17:07         1,441,078 LPR0041.bmp
+29-Sep-25  17:07         1,441,078 LPR0044.bmp
+29-Sep-25  17:07         1,441,078 LPR0068.bmp
+29-Sep-25  17:07         1,441,078 LPR0076.bmp
+29-Sep-25  17:07         1,441,078 LPR0080.bmp
+29-Sep-25  17:07         1,441,078 LPR0081.bmp
+29-Sep-25  17:07         1,441,078 LPR0088.bmp
+29-Sep-25  17:07         1,441,078 LPR0090.bmp
+29-Sep-25  17:07         1,441,078 LPR0115.bmp
+29-Sep-25  17:07         1,441,078 LPR0119.bmp
+29-Sep-25  17:07         1,441,078 LPR0125.bmp
+29-Sep-25  17:07         1,441,078 LPR0129.bmp
+29-Sep-25  17:07         1,441,078 LPR0136.bmp
+29-Sep-25  17:07         1,441,078 LPR0148.bmp
+29-Sep-25  17:07         1,441,078 LPR0150.bmp
+29-Sep-25  17:07         1,441,078 LPR0151.bmp
+29-Sep-25  17:07         1,441,078 LPR0159.bmp
+29-Sep-25  17:07         1,441,078 LPR0166.bmp
+29-Sep-25  17:07         1,441,078 LPR0173.bmp
+29-Sep-25  17:07         1,441,078 LPR0187.bmp
+29-Sep-25  17:07         1,441,078 LPR0188.bmp
+29-Sep-25  17:07         1,441,078 LPR0203.bmp
+29-Sep-25  17:07         1,441,078 LPR0207.bmp
+29-Sep-25  17:07         1,441,078 LPR0217.bmp
+29-Sep-25  17:07         1,441,078 LPR0220.bmp
+29-Sep-25  17:07         1,441,078 LPR0225.bmp
+29-Sep-25  17:07         1,441,078 LPR0234.bmp
+              29 File(s)     41,791,262 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\yellow\method4_hsv
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0032.bmp
+29-Sep-25  17:07         1,441,078 LPR0035.bmp
+29-Sep-25  17:07         1,441,078 LPR0041.bmp
+29-Sep-25  17:07         1,441,078 LPR0044.bmp
+29-Sep-25  17:07         1,441,078 LPR0068.bmp
+29-Sep-25  17:07         1,441,078 LPR0076.bmp
+29-Sep-25  17:07         1,441,078 LPR0080.bmp
+29-Sep-25  17:07         1,441,078 LPR0081.bmp
+29-Sep-25  17:07         1,441,078 LPR0088.bmp
+29-Sep-25  17:07         1,441,078 LPR0090.bmp
+29-Sep-25  17:07         1,441,078 LPR0115.bmp
+29-Sep-25  17:07         1,441,078 LPR0119.bmp
+29-Sep-25  17:07         1,441,078 LPR0125.bmp
+29-Sep-25  17:07         1,441,078 LPR0129.bmp
+29-Sep-25  17:07         1,441,078 LPR0136.bmp
+29-Sep-25  17:07         1,441,078 LPR0148.bmp
+29-Sep-25  17:07         1,441,078 LPR0150.bmp
+29-Sep-25  17:07         1,441,078 LPR0151.bmp
+29-Sep-25  17:07         1,441,078 LPR0159.bmp
+29-Sep-25  17:07         1,441,078 LPR0166.bmp
+29-Sep-25  17:07         1,441,078 LPR0173.bmp
+29-Sep-25  17:07         1,441,078 LPR0187.bmp
+29-Sep-25  17:07         1,441,078 LPR0188.bmp
+29-Sep-25  17:07         1,441,078 LPR0203.bmp
+29-Sep-25  17:07         1,441,078 LPR0207.bmp
+29-Sep-25  17:07         1,441,078 LPR0217.bmp
+29-Sep-25  17:07         1,441,078 LPR0220.bmp
+29-Sep-25  17:07         1,441,078 LPR0225.bmp
+29-Sep-25  17:07         1,441,078 LPR0234.bmp
+              29 File(s)     41,791,262 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\yellow\method5_adaptive
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         1,441,078 LPR0032.bmp
+29-Sep-25  17:07         1,441,078 LPR0035.bmp
+29-Sep-25  17:07         1,441,078 LPR0041.bmp
+29-Sep-25  17:07         1,441,078 LPR0044.bmp
+29-Sep-25  17:07         1,441,078 LPR0068.bmp
+29-Sep-25  17:07         1,441,078 LPR0076.bmp
+29-Sep-25  17:07         1,441,078 LPR0080.bmp
+29-Sep-25  17:07         1,441,078 LPR0081.bmp
+29-Sep-25  17:07         1,441,078 LPR0088.bmp
+29-Sep-25  17:07         1,441,078 LPR0090.bmp
+29-Sep-25  17:07         1,441,078 LPR0115.bmp
+29-Sep-25  17:07         1,441,078 LPR0119.bmp
+29-Sep-25  17:07         1,441,078 LPR0125.bmp
+29-Sep-25  17:07         1,441,078 LPR0129.bmp
+29-Sep-25  17:07         1,441,078 LPR0136.bmp
+29-Sep-25  17:07         1,441,078 LPR0148.bmp
+29-Sep-25  17:07         1,441,078 LPR0150.bmp
+29-Sep-25  17:07         1,441,078 LPR0151.bmp
+29-Sep-25  17:07         1,441,078 LPR0159.bmp
+29-Sep-25  17:07         1,441,078 LPR0166.bmp
+29-Sep-25  17:07         1,441,078 LPR0173.bmp
+29-Sep-25  17:07         1,441,078 LPR0187.bmp
+29-Sep-25  17:07         1,441,078 LPR0188.bmp
+29-Sep-25  17:07         1,441,078 LPR0203.bmp
+29-Sep-25  17:07         1,441,078 LPR0207.bmp
+29-Sep-25  17:07         1,441,078 LPR0217.bmp
+29-Sep-25  17:07         1,441,078 LPR0220.bmp
+29-Sep-25  17:07         1,441,078 LPR0225.bmp
+29-Sep-25  17:07         1,441,078 LPR0234.bmp
+              29 File(s)     41,791,262 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\preprocessed\yellow\original
+
+29-Sep-25  17:07    <DIR>          .
+29-Sep-25  17:06    <DIR>          ..
+29-Sep-25  17:07         4,320,054 LPR0032.bmp
+29-Sep-25  17:07         4,320,054 LPR0035.bmp
+29-Sep-25  17:07         4,320,054 LPR0041.bmp
+29-Sep-25  17:07         4,320,054 LPR0044.bmp
+29-Sep-25  17:07         4,320,054 LPR0068.bmp
+29-Sep-25  17:07         4,320,054 LPR0076.bmp
+29-Sep-25  17:07         4,320,054 LPR0080.bmp
+29-Sep-25  17:07         4,320,054 LPR0081.bmp
+29-Sep-25  17:07         4,320,054 LPR0088.bmp
+29-Sep-25  17:07         4,320,054 LPR0090.bmp
+29-Sep-25  17:07         4,320,054 LPR0115.bmp
+29-Sep-25  17:07         4,320,054 LPR0119.bmp
+29-Sep-25  17:07         4,320,054 LPR0125.bmp
+29-Sep-25  17:07         4,320,054 LPR0129.bmp
+29-Sep-25  17:07         4,320,054 LPR0136.bmp
+29-Sep-25  17:07         4,320,054 LPR0148.bmp
+29-Sep-25  17:07         4,320,054 LPR0150.bmp
+29-Sep-25  17:07         4,320,054 LPR0151.bmp
+29-Sep-25  17:07         4,320,054 LPR0159.bmp
+29-Sep-25  17:07         4,320,054 LPR0166.bmp
+29-Sep-25  17:07         4,320,054 LPR0173.bmp
+29-Sep-25  17:07         4,320,054 LPR0187.bmp
+29-Sep-25  17:07         4,320,054 LPR0188.bmp
+29-Sep-25  17:07         4,320,054 LPR0203.bmp
+29-Sep-25  17:07         4,320,054 LPR0207.bmp
+29-Sep-25  17:07         4,320,054 LPR0217.bmp
+29-Sep-25  17:07         4,320,054 LPR0220.bmp
+29-Sep-25  17:07         4,320,054 LPR0225.bmp
+29-Sep-25  17:07         4,320,054 LPR0234.bmp
+              29 File(s)    125,281,566 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\samples
+
+29-Sep-25  16:31    <DIR>          .
+04-Oct-25  12:26    <DIR>          ..
+29-Sep-25  16:31    <DIR>          blue
+29-Sep-25  16:54    <DIR>          green
+29-Sep-25  16:50    <DIR>          red
+29-Sep-25  17:04    <DIR>          white
+29-Sep-25  16:52    <DIR>          yellow
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\samples\blue
+
+29-Sep-25  16:31    <DIR>          .
+29-Sep-25  16:31    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\samples\green
+
+29-Sep-25  16:54    <DIR>          .
+29-Sep-25  16:31    <DIR>          ..
+29-Sep-25  13:34         4,320,056 LPR0002.bmp
+29-Sep-25  13:34         4,320,056 LPR0005.bmp
+29-Sep-25  13:34         4,320,056 LPR0007.bmp
+29-Sep-25  13:34         4,320,056 LPR0016.bmp
+29-Sep-25  13:34         4,320,056 LPR0019.bmp
+29-Sep-25  13:34         4,320,056 LPR0026.bmp
+29-Sep-25  13:34         4,320,056 LPR0033.bmp
+29-Sep-25  13:34         4,320,056 LPR0036.bmp
+29-Sep-25  13:34         4,320,056 LPR0048.bmp
+29-Sep-25  13:34         4,320,056 LPR0065.bmp
+29-Sep-25  13:34         4,320,056 LPR0074.bmp
+29-Sep-25  13:34         4,320,056 LPR0075.bmp
+29-Sep-25  13:34         4,320,056 LPR0078.bmp
+29-Sep-25  13:34         4,320,056 LPR0085.bmp
+29-Sep-25  13:34         4,320,056 LPR0093.bmp
+29-Sep-25  13:34         4,320,056 LPR0099.bmp
+29-Sep-25  13:34         4,320,056 LPR0100.bmp
+              17 File(s)     73,440,952 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\samples\red
+
+29-Sep-25  16:50    <DIR>          .
+29-Sep-25  16:31    <DIR>          ..
+29-Sep-25  13:34         4,320,056 LPR0001.bmp
+29-Sep-25  13:34         4,320,056 LPR0008.bmp
+29-Sep-25  13:34         4,320,056 LPR0086.bmp
+29-Sep-25  13:34         4,320,056 LPR0103.bmp
+29-Sep-25  13:34         4,320,056 LPR0105.bmp
+29-Sep-25  13:34         4,320,056 LPR0161.bmp
+29-Sep-25  13:34         4,320,056 LPR0190.bmp
+29-Sep-25  13:34         4,320,056 LPR0243.bmp
+               8 File(s)     34,560,448 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\samples\white
+
+29-Sep-25  17:04    <DIR>          .
+29-Sep-25  16:31    <DIR>          ..
+29-Sep-25  13:34         4,320,056 LPR0023.bmp
+29-Sep-25  13:34         4,320,056 LPR0040.bmp
+29-Sep-25  13:34         4,320,056 LPR0046.bmp
+29-Sep-25  13:34         4,320,056 LPR0047.bmp
+29-Sep-25  13:34         4,320,056 LPR0049.bmp
+29-Sep-25  13:34         4,320,056 LPR0050.bmp
+29-Sep-25  13:34         4,320,056 LPR0053.bmp
+29-Sep-25  13:34         4,320,056 LPR0083.bmp
+29-Sep-25  13:34         4,320,056 LPR0087.bmp
+29-Sep-25  13:34         4,320,056 LPR0091.bmp
+29-Sep-25  13:34         4,320,056 LPR0095.bmp
+29-Sep-25  13:34         4,320,056 LPR0110.bmp
+29-Sep-25  13:34         4,320,056 LPR0112.bmp
+29-Sep-25  13:34         4,320,056 LPR0128.bmp
+29-Sep-25  13:34         4,320,056 LPR0164.bmp
+              15 File(s)     64,800,840 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\2.data\samples\yellow
+
+29-Sep-25  16:52    <DIR>          .
+29-Sep-25  16:31    <DIR>          ..
+29-Sep-25  13:34         4,320,056 LPR0032.bmp
+29-Sep-25  13:34         4,320,056 LPR0035.bmp
+29-Sep-25  13:34         4,320,056 LPR0041.bmp
+29-Sep-25  13:34         4,320,056 LPR0044.bmp
+29-Sep-25  13:34         4,320,056 LPR0068.bmp
+29-Sep-25  13:34         4,320,056 LPR0076.bmp
+29-Sep-25  13:34         4,320,056 LPR0080.bmp
+29-Sep-25  13:34         4,320,056 LPR0081.bmp
+29-Sep-25  13:34         4,320,056 LPR0088.bmp
+29-Sep-25  13:34         4,320,056 LPR0090.bmp
+29-Sep-25  13:34         4,320,056 LPR0115.bmp
+29-Sep-25  13:34         4,320,056 LPR0119.bmp
+29-Sep-25  13:34         4,320,056 LPR0125.bmp
+29-Sep-25  13:34         4,320,056 LPR0129.bmp
+29-Sep-25  13:34         4,320,056 LPR0136.bmp
+29-Sep-25  13:34         4,320,056 LPR0148.bmp
+29-Sep-25  13:34         4,320,056 LPR0150.bmp
+29-Sep-25  13:34         4,320,056 LPR0151.bmp
+29-Sep-25  13:34         4,320,056 LPR0159.bmp
+29-Sep-25  13:34         4,320,056 LPR0166.bmp
+29-Sep-25  13:34         4,320,056 LPR0173.bmp
+29-Sep-25  13:34         4,320,056 LPR0187.bmp
+29-Sep-25  13:34         4,320,056 LPR0188.bmp
+29-Sep-25  13:34         4,320,056 LPR0203.bmp
+29-Sep-25  13:34         4,320,056 LPR0207.bmp
+29-Sep-25  13:34         4,320,056 LPR0217.bmp
+29-Sep-25  13:34         4,320,056 LPR0220.bmp
+29-Sep-25  13:34         4,320,056 LPR0225.bmp
+29-Sep-25  13:34         4,320,056 LPR0234.bmp
+              29 File(s)    125,281,624 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\3.templates
+
+04-Oct-25  13:58    <DIR>          .
+04-Oct-25  14:59    <DIR>          ..
+29-Sep-25  15:54    <DIR>          numbers
+29-Sep-25  15:55    <DIR>          special
+04-Oct-25  13:58             4,525 templates.mat
+29-Sep-25  15:55    <DIR>          thai_chars
+               1 File(s)          4,525 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\3.templates\numbers
+
+29-Sep-25  15:54    <DIR>          .
+04-Oct-25  13:58    <DIR>          ..
+29-Sep-25  15:54               154 0.png
+29-Sep-25  15:54               137 1.png
+29-Sep-25  15:54               164 2.png
+29-Sep-25  15:54               170 3.png
+29-Sep-25  15:54               147 4.png
+29-Sep-25  15:54               163 5.png
+29-Sep-25  15:54               167 6.png
+29-Sep-25  15:54               145 7.png
+29-Sep-25  15:54               164 8.png
+29-Sep-25  15:54               172 9.png
+              10 File(s)          1,583 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\3.templates\special
+
+29-Sep-25  15:55    <DIR>          .
+04-Oct-25  13:58    <DIR>          ..
+29-Sep-25  15:55                94 dash.png
+               1 File(s)             94 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\3.templates\thai_chars
+
+29-Sep-25  15:55    <DIR>          .
+04-Oct-25  13:58    <DIR>          ..
+29-Sep-25  15:55               126 bor_baimai.png
+29-Sep-25  15:54               158 chor_chang.png
+29-Sep-25  15:54               181 chor_ching.png
+29-Sep-25  15:55               158 chor_choe.png
+29-Sep-25  15:55               166 dor_chada.png
+29-Sep-25  15:55               163 dor_dek.png
+29-Sep-25  15:55               156 for_fa.png
+29-Sep-25  15:55               149 for_fan.png
+29-Sep-25  15:55               150 hor_hip.png
+29-Sep-25  15:55               176 hor_nokhuk.png
+29-Sep-25  15:54               159 jor_jan.png
+29-Sep-25  15:54               148 khor_khai.png
+29-Sep-25  15:54               160 khor_khon.png
+29-Sep-25  15:54               153 khor_khuat.png
+29-Sep-25  15:54               158 khor_khwai.png
+29-Sep-25  15:54               170 khor_rakhang.png
+29-Sep-25  15:54               134 kor_kai.png
+29-Sep-25  15:55               154 lor_chula.png
+29-Sep-25  15:55               162 lor_ling.png
+29-Sep-25  15:55               143 lue.png
+29-Sep-25  15:55               163 mor_ma.png
+29-Sep-25  15:54               157 ngor_ngu.png
+29-Sep-25  15:55               164 nor_nen.png
+29-Sep-25  15:55               155 nor_nu.png
+29-Sep-25  15:55               172 or_ang.png
+29-Sep-25  15:55               141 phor_phan.png
+29-Sep-25  15:55               165 phor_phung.png
+29-Sep-25  15:55               156 phor_samphao.png
+29-Sep-25  15:55               124 por_pla.png
+29-Sep-25  15:55               152 ror_rua.png
+29-Sep-25  15:55               148 rue.png
+29-Sep-25  15:55               154 sor_rusi.png
+29-Sep-25  15:55               151 sor_sala.png
+29-Sep-25  15:55               162 sor_so.png
+29-Sep-25  15:55               168 sor_suea.png
+29-Sep-25  15:55               144 thor_montho.png
+29-Sep-25  15:55               179 thor_phuthao.png
+29-Sep-25  15:55               143 thor_thahan.png
+29-Sep-25  15:55               199 thor_than.png
+29-Sep-25  15:55               155 thor_thong.png
+29-Sep-25  15:55               160 thor_thung.png
+29-Sep-25  15:55               176 tor_patak.png
+29-Sep-25  15:55               164 tor_tao.png
+29-Sep-25  15:55               140 wor_waen.png
+29-Sep-25  15:55               163 yor_yak.png
+29-Sep-25  15:55               169 yor_ying.png
+              46 File(s)          7,248 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\4.utils
+
+29-Sep-25  15:54    <DIR>          .
+04-Oct-25  14:59    <DIR>          ..
+29-Sep-25  15:54               754 char_mapping.mat
+29-Sep-25  15:54             2,417 number_mapping.txt
+29-Sep-25  15:54             3,386 thai_unicode.txt
+               3 File(s)          6,557 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\5.output
+
+04-Oct-25  14:14    <DIR>          .
+04-Oct-25  14:59    <DIR>          ..
+29-Sep-25  13:49    <DIR>          debug_images
+04-Oct-25  14:18    <DIR>          full_pipeline_results
+29-Sep-25  13:49    <DIR>          processed_images
+04-Oct-25  13:58    <DIR>          recognition_results
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\5.output\debug_images
+
+29-Sep-25  13:49    <DIR>          .
+04-Oct-25  14:14    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\5.output\full_pipeline_results
+
+04-Oct-25  14:18    <DIR>          .
+04-Oct-25  14:14    <DIR>          ..
+04-Oct-25  14:32             3,798 full_pipeline_results.mat
+04-Oct-25  14:32            20,215 full_pipeline_results.txt
+04-Oct-25  14:32             7,779 results.csv
+               3 File(s)         31,792 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\5.output\processed_images
+
+29-Sep-25  13:49    <DIR>          .
+04-Oct-25  14:14    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\5.output\recognition_results
+
+04-Oct-25  13:58    <DIR>          .
+04-Oct-25  14:14    <DIR>          ..
+04-Oct-25  14:42             6,017 recognition_results.mat
+04-Oct-25  14:42            17,453 recognition_results.txt
+               2 File(s)         23,470 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\6.docs
+
+29-Sep-25  13:29    <DIR>          .
+04-Oct-25  14:59    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\output
+
+04-Oct-25  13:54    <DIR>          .
+04-Oct-25  14:59    <DIR>          ..
+04-Oct-25  13:54    <DIR>          recognition_results
+               0 File(s)              0 bytes
+
+ Directory of D:\RMUTP\Sem4\4.EN2143201 Th Digital Images\LAB\LPR-2568\output\recognition_results
+
+04-Oct-25  13:54    <DIR>          .
+04-Oct-25  13:54    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+            1144 File(s)  2,183,807,950 bytes
+             403 Dir(s)  33,720,242,176 bytes free
