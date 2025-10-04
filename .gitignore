@@ -5,7 +5,7 @@
 3.templates/
 4.utils/
 5.output/
-
+2.detected_plates/
  ========== MATLAB Files ==========
 # Autosave files
 *.asv
